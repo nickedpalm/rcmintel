@@ -1,0 +1,397 @@
+[
+  {
+    "slug": "billingparadise-columbus",
+    "name": "BillingParadise",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Contingency-based AR recovery-focused medical billing with multiple EHR support.",
+    "certifications": [],
+    "services": [
+      "AR recovery",
+      "denial management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:51",
+    "sentiment": null
+  },
+  {
+    "slug": "credex-healthcare-columbus",
+    "name": "Credex Healthcare",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "phone": "6156551916",
+    "website": "https://credexhealthcare.com",
+    "email": "Info@credexhealthcare.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Revenue cycle management including charge capture, claim filing, rejection management, and Medicaid MCO billing for Ohio practices.",
+    "certifications": [],
+    "services": [
+      "charge capture",
+      "claim filing",
+      "rejection management",
+      "Medicaid MCO billing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:51",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.5,
+      "keywords": [],
+      "highlights": [],
+      "summary": "No review content provided; only staff titles and names listed without review text to analyze."
+    }
+  },
+  {
+    "slug": "curemd-columbus",
+    "name": "CureMD",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "phone": "646 663 8030",
+    "website": "https://www.curemd.com",
+    "email": "nathan.bradshaw@curemd.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "AI-driven medical billing services for Ohio physicians, including coding accuracy, denial prevention, and payment posting.",
+    "certifications": [],
+    "services": [
+      "AI billing",
+      "payment posting",
+      "denial prevention"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:51",
+    "sentiment": null
+  },
+  {
+    "slug": "groupone-columbus",
+    "name": "GroupOne",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Billing services focused on ortho, behavioral health, and urgent care with direct EDI and 20+ years experience.",
+    "certifications": [],
+    "services": [
+      "direct EDI",
+      "ortho billing",
+      "behavioral health"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:51",
+    "sentiment": null
+  },
+  {
+    "slug": "healthcare-claims-solutions-inc-columbus",
+    "name": "Healthcare Claims Solutions, Inc.",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "phone": "1888335042",
+    "website": "https://www.myhcsinc.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Full-service medical billing including ICD-10/CPT-4 coding, claims submission, cash posting, denial management, and self-pay collection.",
+    "certifications": [],
+    "services": [
+      "ICD-10 coding",
+      "denial management",
+      "self-pay collection"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:51",
+    "sentiment": null
+  },
+  {
+    "slug": "integra-global-solutions-columbus",
+    "name": "Integra Global Solutions",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Specializes in mid-sized group practices and hospital outpatient departments with dedicated account managers for Ohio clients.",
+    "certifications": [],
+    "services": [
+      "dedicated account managers",
+      "payer contract support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:51",
+    "sentiment": null
+  },
+  {
+    "slug": "medvantis-columbus",
+    "name": "Medvantis",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "phone": "915-265-7751",
+    "website": "https://www.medvantis.com",
+    "email": "info@medvantis.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "End-to-end medical billing solutions including credentialing, denial management, and compliance for Ohio providers.",
+    "certifications": [],
+    "services": [
+      "credentialing",
+      "denial management",
+      "claim processing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:51",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "knowledgeable",
+        "thorough",
+        "dedicated",
+        "reliable",
+        "professional",
+        "trustworthy"
+      ],
+      "highlights": [
+        {
+          "text": "This team is amazing. They are very knowledgeable, thorough, and dedicated",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I have confidence and security knowing Jay and his team will meet project goals",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Medvantis is definitely an asset and an Ace in our pocket",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Medvantis receives strong endorsement from a long-term client CEO praising their expertise, dedication, and reliable project delivery over 4+ years of partnership."
+    }
+  },
+  {
+    "slug": "p3-healthcare-solutions-columbus",
+    "name": "P3 Healthcare Solutions",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Medical billing for physician groups with AI and human review for denial management and 50+ EHR integrations.",
+    "certifications": [],
+    "services": [
+      "AI denial management",
+      "50+ EHRs"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:51",
+    "sentiment": null
+  },
+  {
+    "slug": "precision-practice-management-columbus",
+    "name": "Precision Practice Management",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "phone": "844-525-8500",
+    "website": "https://www.precisionpractice.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Revenue cycle management, medical coding, credentialing, and support for practices in Columbus, Cleveland, Cincinnati, and statewide.",
+    "certifications": [],
+    "services": [
+      "revenue cycle",
+      "coding",
+      "credentialing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:51",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.9,
+      "keywords": [
+        "efficient",
+        "collections",
+        "professional",
+        "proactive",
+        "results-oriented"
+      ],
+      "highlights": [
+        {
+          "text": "was able to collect AR claims that would normally be written-off",
+          "sentiment": "positive"
+        },
+        {
+          "text": "stepped up and took control of the transition from our old billing service",
+          "sentiment": "positive"
+        },
+        {
+          "text": "generated normal collections in a short time",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Strong positive reputation for efficient AR recovery and professional transition management with demonstrated results."
+    }
+  },
+  {
+    "slug": "transcure-columbus",
+    "name": "Transcure",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "phone": "1103337663",
+    "website": "https://transcure.net",
+    "email": "info@transcure.net",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "AI-powered revenue cycle management with dedicated AI agents supervised by certified billers and coders, guaranteeing over 96% collection rate.",
+    "certifications": [],
+    "services": [
+      "AI-powered medical billing",
+      "revenue cycle management",
+      "specialty-specific workflows"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:05",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.93,
+      "keywords": [
+        "knowledgeable",
+        "seamless",
+        "responsive",
+        "expertise",
+        "efficient",
+        "compliance"
+      ],
+      "highlights": [
+        {
+          "text": "Truly, the easiest transition I could ever imagine. And their services are fantastic!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Their knowledgeable team has ensured compliance with regulations, minimized payment delays",
+          "sentiment": "positive"
+        },
+        {
+          "text": "invaluable partner in managing our billing needs with expertise, accuracy, and dedication",
+          "sentiment": "positive"
+        },
+        {
+          "text": "little room for improvement in reporting details",
+          "sentiment": "negative"
+        }
+      ],
+      "summary": "Transcure Medical Billing receives overwhelmingly positive reviews for knowledgeable teams, seamless transitions, and strong compliance\u2014with one minor note about reporting detail improvements."
+    }
+  }
+]

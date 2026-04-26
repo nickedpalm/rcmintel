@@ -1,0 +1,502 @@
+[
+  {
+    "slug": "azbilling-phoenix",
+    "name": "AZBilling",
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": "",
+    "lat": 33.4484,
+    "lng": -112.074,
+    "phone": "6155653183",
+    "website": "https://azbilling.com",
+    "email": "sales@azbilling.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Strategic partner for healthcare financial excellence and revenue management.[9]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:55",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "dedicated account manager",
+        "responsive",
+        "reliable",
+        "expert",
+        "helpful",
+        "communication"
+      ],
+      "highlights": [
+        {
+          "text": "I love how i have a dedicated account manager, who has been available and helpful and kind",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Super team. Super service... I would recommend this company to everyone.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "AZ Billing demonstrated a level of communication, reliability, and expertise that stands out in our industry",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "AZ Billing consistently earns high praise for responsive support, expert leadership, and reliability across complex billing operations."
+    }
+  },
+  {
+    "slug": "accurate-medical-billing-phoenix",
+    "name": "Accurate Medical Billing",
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": "",
+    "lat": 33.4484,
+    "lng": -112.074,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Medical billing services for mid and large sized practices.[1]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:55",
+    "sentiment": null
+  },
+  {
+    "slug": "ea-medical-billing-insurance-services-phoenix",
+    "name": "E&A Medical Billing & Insurance Services",
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": "",
+    "lat": 33.4484,
+    "lng": -112.074,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Medical billing and insurance services in Phoenix.[3]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:55",
+    "sentiment": null
+  },
+  {
+    "slug": "independent-medical-billing-phoenix",
+    "name": "Independent Medical Billing",
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": "",
+    "lat": 33.4484,
+    "lng": -112.074,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Provides electronic and paper claims filing, patient billing, collections, coding, denial management, AR management, and financial reports for small and independent practices with 25 years of experience.[1]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:55",
+    "sentiment": null
+  },
+  {
+    "slug": "medcare-mso-phoenix",
+    "name": "MedCare MSO",
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": "",
+    "lat": 33.4484,
+    "lng": -112.074,
+    "phone": "800-640-6409",
+    "website": "https://medcaremso.com",
+    "email": "info@medcaremso.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Offers healthcare billing solutions for small, mid, and large sized practices including full RCM services.[1]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:55",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "responsive communication",
+        "billing expertise",
+        "efficiency",
+        "professional service",
+        "revenue growth",
+        "compliance"
+      ],
+      "highlights": [
+        {
+          "text": "MedCare MSO has been an excellent organization to work with, I highly recommend them",
+          "sentiment": "positive"
+        },
+        {
+          "text": "exceptional communication and expertise elevated our RCM experience",
+          "sentiment": "positive"
+        },
+        {
+          "text": "reduced our claim denials by up to 20%",
+          "sentiment": "positive"
+        },
+        {
+          "text": "they are so fast and efficient",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "MedCare MSO receives overwhelmingly positive reviews from healthcare providers, consistently praised for billing expertise, responsive communication, operational efficiency, and measurable revenue improvements."
+    }
+  },
+  {
+    "slug": "medfactor-inc-phoenix",
+    "name": "MedFactor Inc.",
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": "",
+    "lat": 33.4484,
+    "lng": -112.074,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Phoenix-based with 98.8% billing success rate, supports 50+ specialties, medical billing and coding, denial management, credentialing, pricing from 2.99% for mid and large practices.[1][3]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:55",
+    "sentiment": null
+  },
+  {
+    "slug": "my-billing-solution-phoenix",
+    "name": "My Billing Solution",
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": "",
+    "lat": 33.4484,
+    "lng": -112.074,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Full-service RCM for small, mid, and large practices including denial follow-up and reporting.[1][3]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:55",
+    "sentiment": null
+  },
+  {
+    "slug": "practolytics-phoenix",
+    "name": "Practolytics",
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": "",
+    "lat": 33.4484,
+    "lng": -112.074,
+    "phone": "9999999999",
+    "website": "https://practolytics.com",
+    "email": "sales@practolytics.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "End-to-end medical billing with 20+ years experience, eligibility, coding, claim submission within 24 hours, denial management, AR follow-ups for 1400+ providers.[2]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:55",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "knowledgeable",
+        "supportive",
+        "reliable",
+        "responsive",
+        "expertise",
+        "results-driven"
+      ],
+      "highlights": [
+        {
+          "text": "invaluable to our practice since October 2022...incredibly supportive providing clear and concise guidance",
+          "sentiment": "positive"
+        },
+        {
+          "text": "customer service to be unsurpassed. All phone calls are returned and questions answered in thorough and timely manner",
+          "sentiment": "positive"
+        },
+        {
+          "text": "one of the best decisions that I have made for our practice",
+          "sentiment": "positive"
+        },
+        {
+          "text": "practice more than tripled in visits...allowed us great patient flow and continued steady growth",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Unanimous positive sentiment across four medical practices with 3-10+ year client relationships, praising Practolytics' expertise, accessibility, customer service, and measurable business impact on billing efficiency and practice growth."
+    }
+  },
+  {
+    "slug": "rpm-arizona-medical-billing-phoenix",
+    "name": "RPM Arizona Medical Billing",
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": "",
+    "lat": 33.4484,
+    "lng": -112.074,
+    "phone": "855-577-6633",
+    "website": "https://www.rpmmedicalbilling.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Over 10 years partnering with doctors, clinics, hospitals for medical billing.[3][10]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:55",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "responsive",
+        "collections-expert",
+        "customized-service",
+        "trustworthy",
+        "seamless-transition",
+        "accessible"
+      ],
+      "highlights": [
+        {
+          "text": "RPM comes to you with my highest recommendation. They were instrumental in establishing the initial billing infrastructure.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "After working with two other medical billing companies, we now experience service with people who we can actually talk to.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The rate of collections has been top notch and they are very responsive to making changes to improve any systems.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They take the time to get to know their clients and tailor the services they provide to fit individual practice needs.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "RPM Arizona Medical Billing receives overwhelmingly positive reviews, with clients consistently praising their accessibility, collections expertise, smooth transitions from competitors, and willingness to customize services to individual practice needs."
+    }
+  },
+  {
+    "slug": "revnexa-medical-billing-llc-phoenix",
+    "name": "Revnexa Medical Billing LLC",
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": "",
+    "lat": 33.4484,
+    "lng": -112.074,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Reduces denied claims, accelerates payments with smart tech, full-service RCM for clinics and hospitals.[2]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:55",
+    "sentiment": null
+  },
+  {
+    "slug": "tnt-consulting-llc-phoenix",
+    "name": "TNT Consulting LLC",
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": "",
+    "lat": 33.4484,
+    "lng": -112.074,
+    "phone": "602-246-0721",
+    "website": "https://medicalbillingphoenix.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Medical billing services including weekly superbill pickup, Medicare/AHCCCS/commercial billing, collections, HIPAA compliance, coding, monthly reports.[8]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:55",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "professional",
+        "efficient",
+        "thorough",
+        "knowledgeable",
+        "honest",
+        "timely"
+      ],
+      "highlights": [
+        {
+          "text": "honest, thorough, quick, tenacious, and knowledgeable company",
+          "sentiment": "positive"
+        },
+        {
+          "text": "service to be efficient, professional and timely",
+          "sentiment": "positive"
+        },
+        {
+          "text": "my business is your business and that we are a team",
+          "sentiment": "positive"
+        },
+        {
+          "text": "This business would not be such a success without you",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Overwhelmingly positive \u2014 multiple long-term clients (8+ years) consistently praise TNT Consulting as professional, efficient, and knowledgeable, with deep partnerships and measurable business impact."
+    }
+  },
+  {
+    "slug": "transcure-phoenix",
+    "name": "Transcure",
+    "city": "Phoenix",
+    "state": "AZ",
+    "address": "",
+    "lat": 33.4484,
+    "lng": -112.074,
+    "phone": "1103337663",
+    "website": "https://transcure.net",
+    "email": "info@transcure.net",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "AI-powered billing workflows with dedicated agents for RCM stages, reliable collections, local payer expertise.[3]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:55",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.94,
+      "keywords": [
+        "knowledgeable team",
+        "seamless integration",
+        "expertise",
+        "responsive",
+        "proactive communication",
+        "improved cash flow"
+      ],
+      "highlights": [
+        {
+          "text": "Truly, the easiest transition I could ever imagine. And their services are fantastic!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We are incredibly impressed with Transcure Medical Billing Services' medical billing expertise",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Transcure Medical Billing Services has been an invaluable partner in managing our billing needs",
+          "sentiment": "positive"
+        },
+        {
+          "text": "While there's still a little room for improvement in reporting details",
+          "sentiment": "negative"
+        }
+      ],
+      "summary": "Overwhelmingly positive reputation with consistent praise for expertise, seamless transitions, and knowledgeable team, with one minor mention of reporting detail improvements"
+    }
+  }
+]

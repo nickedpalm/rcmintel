@@ -1,0 +1,95 @@
+[
+  {
+    "slug": "247-medical-billing-services-austin",
+    "name": "24/7 Medical Billing Services",
+    "city": "Austin",
+    "state": "TX",
+    "address": "2028 E Ben White Blvd, Austin, TX",
+    "lat": 30.2171012,
+    "lng": -97.7433295,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Trusted company with over 12 years experience, dedicated Austin office, end-to-end billing increasing revenue by 30%, complementary credentialing with RCM.",
+    "certifications": [],
+    "services": [
+      "end-to-end medical billing",
+      "credentialing",
+      "revenue cycle management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:32",
+    "sentiment": null
+  },
+  {
+    "slug": "transcure-austin",
+    "name": "Transcure",
+    "city": "Austin",
+    "state": "TX",
+    "address": "",
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "phone": "1103337663",
+    "website": "https://transcure.net",
+    "email": "info@transcure.net",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Expert medical billing with 1100+ specialist billers for 40+ specialties, 98% first-pass clean claims rate, RPA automation for claim submission and AR recovery within 24 days.",
+    "certifications": [],
+    "services": [
+      "credentialing",
+      "claims submission",
+      "denial management",
+      "AR recovery"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:32",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.92,
+      "keywords": [
+        "seamless transition",
+        "knowledgeable team",
+        "responsive",
+        "efficient",
+        "expertise",
+        "improved cash flow"
+      ],
+      "highlights": [
+        {
+          "text": "Truly, the easiest transition I could ever imagine. And their services are fantastic!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We are incredibly impressed with Transcure Medical Billing Services' medical billing expertise",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Invaluable partner in managing our billing needs with expertise, accuracy, and dedication",
+          "sentiment": "positive"
+        },
+        {
+          "text": "While there's still a little room for improvement in reporting details",
+          "sentiment": "negative"
+        }
+      ],
+      "summary": "Transcure Medical Billing Services is highly regarded for seamless transitions, knowledgeable support, and improved cash flow, with one reviewer noting minor room for improvement in reporting."
+    }
+  }
+]

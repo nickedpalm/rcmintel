@@ -1,0 +1,328 @@
+[
+  {
+    "slug": "medheave-seattle",
+    "name": "Medheave",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "phone": "8571428571",
+    "website": "https://medheave.com",
+    "email": "info@medheave.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Customized medical billing solutions for Washington providers in cities like Seattle, Spokane, Tacoma, to reduce denials and streamline reimbursements.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "claim denial reduction",
+      "reimbursements"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:08",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "seamless billing",
+        "professional quality",
+        "invisible process",
+        "excellence",
+        "efficient service"
+      ],
+      "highlights": [
+        {
+          "text": "being so good that billers are invisible in the whole process",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Medheave is praised for delivering billing services so seamlessly that the process becomes invisible to users\u2014a sign of professional excellence and quality execution."
+    }
+  },
+  {
+    "slug": "pc-medical-billing-seattle",
+    "name": "PC Medical Billing",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Specialized medical billing firm in Washington serving dental, medical, and transportation providers with comprehensive revenue cycle management and customized solutions.",
+    "certifications": [],
+    "services": [
+      "revenue cycle management",
+      "insurance verification",
+      "claims submission",
+      "denial management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:08",
+    "sentiment": null
+  },
+  {
+    "slug": "physicians-revenue-group-inc-seattle",
+    "name": "Physicians Revenue Group, Inc.",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "phone": "1776963401",
+    "website": "https://prgmd.com",
+    "email": "%20info@prgmd.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Top-tier medical billing and practice management services in Washington, focusing on revenue management, coding, claim submission, denial management, and reporting for healthcare providers.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "medical coding",
+      "denial management",
+      "practice management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:08",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.5,
+      "keywords": [],
+      "highlights": [],
+      "summary": "No review content available - input contains only service category labels, not customer feedback or ratings."
+    }
+  },
+  {
+    "slug": "precision-practice-management-seattle",
+    "name": "Precision Practice Management",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "phone": "844-525-8500",
+    "website": "https://www.precisionpractice.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Comprehensive medical billing and revenue cycle management solutions for practices in Washington, including coding, charge coding, credentialing, and technical support statewide.",
+    "certifications": [],
+    "services": [
+      "revenue cycle management",
+      "medical coding",
+      "credentialing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:08",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.88,
+      "keywords": [
+        "collections recovery",
+        "efficient transition",
+        "proactive management",
+        "AR claims",
+        "reliable service",
+        "fast results"
+      ],
+      "highlights": [
+        {
+          "text": "They stepped up and took control of the transition from our old billing service and generated normal collections in a short time.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Precision pursued AR claims that would normally be written-off and was able to collect.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Precision Practice Management is highly regarded for proactive collections recovery, efficient service transitions, and delivering measurable financial results quickly."
+    }
+  },
+  {
+    "slug": "south-sound-medical-billing-seattle",
+    "name": "South Sound Medical Billing",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "phone": "1891578707",
+    "website": "https://southsoundmedicalbilling.com",
+    "email": "amkryukov@gmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Provides billing services submitting claims to Medicare, Medicaid, No Fault/Personal Injury, Workers Compensation, and commercial carriers.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "claims submission",
+      "insurance billing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:08",
+    "sentiment": null
+  },
+  {
+    "slug": "transcure-seattle",
+    "name": "Transcure",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "phone": "1103337663",
+    "website": "https://transcure.net",
+    "email": "info@transcure.net",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Leading medical billing company in Washington with 23 years experience, offering AI-powered revenue cycle management, 98% clean claim rate, for over 40 specialties.",
+    "certifications": [],
+    "services": [
+      "revenue cycle management",
+      "claims submission",
+      "denial management",
+      "eligibility verification"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:08",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.87,
+      "keywords": [
+        "knowledgeable",
+        "seamless",
+        "efficient",
+        "proactive",
+        "responsive",
+        "expertise"
+      ],
+      "highlights": [
+        {
+          "text": "Truly, the easiest transition I could ever imagine. And their services are fantastic!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Minimized payment delays and improved our cash flow.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Communication is always clear and timely.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Still a little room for improvement in reporting details.",
+          "sentiment": "negative"
+        }
+      ],
+      "summary": "Transcure receives overwhelmingly positive reviews with clients praising seamless transitions, knowledgeable team expertise, and measurable business impact, with one minor note about reporting detail improvements."
+    }
+  },
+  {
+    "slug": "usmd-billing-seattle",
+    "name": "USMD Billing",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "All-inclusive medical billing services using modern technologies and experts for accurate invoicing, with nationwide reach suitable for larger practices in Washington.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "revenue cycle management",
+      "coding"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:08",
+    "sentiment": null
+  },
+  {
+    "slug": "washington-medical-billing-seattle",
+    "name": "Washington Medical Billing",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Local medical billing service with extensive knowledge of Washington healthcare industry, providing billing services for clinics and doctor's offices with emphasis on client connection and individualized service.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "claims processing",
+      "individualized service"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:08",
+    "sentiment": null
+  }
+]

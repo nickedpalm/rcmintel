@@ -1,0 +1,177 @@
+{
+  "name": "Medical Billing Services",
+  "brandName": "RCMIntel",
+  "slug": "rcmintel",
+  "domain": "rcmintel.com",
+  "siteUrl": "https://rcmintel.com",
+  "tagline": "Verified medical billing services, independently rated.",
+  "description": "The most comprehensive directory of CHBME- and AAPC-credentialed medical billing services, revenue cycle management companies, and healthcare billing specialists in the United States.",
+  "jobValue": "$500-5,000 per month",
+  "industry": "medical",
+  "primaryKeyword": "medical billing service",
+  "secondaryKeywords": [
+    "revenue cycle management",
+    "medical coding service",
+    "healthcare billing company",
+    "denial management service",
+    "practice management billing",
+    "HIPAA compliant billing service"
+  ],
+  "certifications": [
+    "CHBME (Certified Healthcare Billing and Management Executive \u2014 HBMA)",
+    "CPC (Certified Professional Coder \u2014 AAPC)",
+    "CCS (Certified Coding Specialist \u2014 AHIMA)",
+    "CMRS (Certified Medical Reimbursement Specialist \u2014 AMBA)",
+    "CBCS (Certified Billing and Coding Specialist \u2014 NHA)",
+    "CPPM (Certified Physician Practice Manager \u2014 AAPC)"
+  ],
+  "extraFields": [],
+  "cityPagePromptContext": "Medical billing services handle end-to-end revenue cycle management for physician practices, clinics, and health systems.\nCredentialed professionals (CHBME, CPC, CCS) perform medical coding, claims\nsubmission, denial management, and payment posting on behalf of providers.\nPractice managers and clinic administrators hire them when opening a new practice,\nafter denial rates climb above acceptable thresholds, or to offload administrative\noverhead entirely. Detailed reporting tracks clean claim rates, days in AR,\nand net collection ratios so practices can benchmark performance over time.\n",
+  "contactEmail": "contact@rcmintel.com",
+  "buyerPersona": "practice managers and clinic administrators",
+  "servicePhrase": "medical billing",
+  "primaryCredential": "CHBME",
+  "buyerSearchContext": "when launching a new practice, after experiencing rising claim denial rates, or when seeking to reduce in-house billing overhead and improve collections",
+  "editorialAuthor": {
+    "name": "Nick Palmer",
+    "title": "Founder & Lead Researcher",
+    "bio": "Nick built this directory to help practice managers find credentialed medical billing services without wading through generalist agencies that lack healthcare-specific expertise \u2014 a frustration he ran into when evaluating RCM vendors for a specialty clinic and couldn\u2019t find an unbiased, credential-verified source.",
+    "linkedin": "https://linkedin.com/in/nickedpalmer"
+  },
+  "stripeSponsoredLink": "",
+  "stripeCityProLink": "",
+  "stripeFeaturedMonthlyLink": "https://buy.stripe.com/aFabJ0fTIbBS4Pa4w9a3u3w",
+  "stripeFeaturedAnnualLink": "https://buy.stripe.com/bJe3cu0YO35m3L69Qta3u3x",
+  "stripeCityProMonthlyLink": "https://buy.stripe.com/00w8wOfTI5dubdye6Ja3u3y",
+  "stripeCityProAnnualLink": "https://buy.stripe.com/fZu00i4b049q95q6Eha3u3z",
+  "stripeFeaturedProductId": "prod_UFN23GkTJRG2Po",
+  "stripeCityProProductId": "prod_UFN2DzZKBb3H9e",
+  "stripeFeaturedMonthlyPriceId": "price_1TQZ2WCIgRyRDQ2PcqrIajtA",
+  "stripeFeaturedAnnualPriceId": "price_1TQZ2XCIgRyRDQ2PtYxnZeoN",
+  "stripeCityProMonthlyPriceId": "price_1TQZ2ZCIgRyRDQ2PpqolGora",
+  "stripeCityProAnnualPriceId": "price_1TQZ2bCIgRyRDQ2PaAZ8zFv2",
+  "pricing": {
+    "featuredMonthlyUsd": 49,
+    "featuredAnnualUsd": 441,
+    "cityProMonthlyUsd": 149,
+    "cityProAnnualUsd": 1341
+  },
+  "listmonkListId": "58",
+  "listmonkTplMagicLink": "44",
+  "listmonkTplLeadNotify": "45",
+  "listmonkTplGuideDelivery": "46",
+  "ga4MeasurementId": "G-KW8GPZLJ4X",
+  "turnstileSitekey": "",
+  "turnsiteSitekey": "",
+  "googleAnalyticsId": "G-KW8GPZLJ4X",
+  "foundedYear": 2026,
+  "listings": {
+    "schema": [
+      {
+        "key": "chbme_certified",
+        "type": "boolean",
+        "label": "CHBME Certified",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Look for 'CHBME' designation, HBMA membership badge, or explicit mention of Certified Healthcare Billing and Management Executive credential on homepage, about page, or team bios."
+      },
+      {
+        "key": "years_in_business",
+        "type": "number",
+        "label": "Years in Business",
+        "display": "range",
+        "facet": false,
+        "unit": "years",
+        "scrape_hint": "Extract from 'About Us', founding year statements, or '15+ years serving providers' copy; calculate from founding year if business start date is provided."
+      },
+      {
+        "key": "certifications",
+        "type": "multi_enum",
+        "label": "Staff Certifications",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "CPC Certified",
+          "CCS Certified",
+          "CMRS Certified",
+          "CBCS Certified",
+          "CPPM Certified",
+          "HIPAA Compliance Trained"
+        ],
+        "scrape_hint": "Scan certifications section, team credentials, or credential logos for AAPC, AHIMA, AMBA, or NHA designations; match exact acronyms and full names from staff bios or credentials pages."
+      },
+      {
+        "key": "specialties_served",
+        "type": "multi_enum",
+        "label": "Medical Specialties Served",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Primary Care",
+          "Cardiology",
+          "Orthopedics",
+          "Mental Health",
+          "Radiology",
+          "Surgery",
+          "Urgent Care",
+          "Chiropractic"
+        ],
+        "scrape_hint": "Parse specialties menu, 'Industries We Serve' section, or homepage bullets; match keywords like 'orthopedic billing', 'mental health billing', or 'multi-specialty practice'."
+      },
+      {
+        "key": "billing_model",
+        "type": "enum",
+        "label": "Billing Model",
+        "display": "text",
+        "facet": true,
+        "enum": [
+          "Percentage of Collections",
+          "Flat Monthly Fee",
+          "Per-Claim Fee",
+          "Hybrid Pricing"
+        ],
+        "scrape_hint": "Extract from pricing page, FAQ, or 'How We Charge' sections; look for phrases like '6% of collections', 'flat fee per month', or 'per claim submitted'."
+      },
+      {
+        "key": "denial_management",
+        "type": "boolean",
+        "label": "Denial Management & Appeals",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Check for mentions of 'denial management', 'claim appeals', 'AR recovery', or 'denial resolution' in services list or methodology pages."
+      },
+      {
+        "key": "ehr_integrations",
+        "type": "multi_enum",
+        "label": "EHR Integrations",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Epic",
+          "Athenahealth",
+          "eClinicalWorks",
+          "Practice Fusion",
+          "Kareo",
+          "DrChrono"
+        ],
+        "scrape_hint": "Scan integrations, technology, or software partner sections for named EHR platforms; look for logos or 'we work with' lists on the homepage or services page."
+      },
+      {
+        "key": "phone",
+        "type": "phone",
+        "label": "Phone Number",
+        "display": "text",
+        "facet": false,
+        "scrape_hint": "Extract from header, footer, contact page, or click-to-call buttons; normalize to standard format (e.g., (555) 123-4567)."
+      },
+      {
+        "key": "website",
+        "type": "url",
+        "label": "Website",
+        "display": "link",
+        "facet": false,
+        "scrape_hint": "Capture primary domain from browser address bar, homepage links, or business listings; ensure full URL with https:// protocol."
+      }
+    ]
+  }
+}

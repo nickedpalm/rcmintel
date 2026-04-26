@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "medical-billing-company-vetting-guide",
+    "title": "Medical Billing Company Vetting Guide",
+    "subtitle": "Select the Right Billing Partner for Your Practice",
+    "description": "Choosing the wrong medical billing vendor can drain revenue and create compliance headaches. This guide gives practice managers a systematic framework for evaluating candidates, comparing credentials, and avoiding the costly mistakes most clinics make.",
+    "bullets": [
+      "Verify CHBME certification and compliance track record",
+      "Compare denial rates: top vendors maintain below 5%",
+      "Confirm 24\u201348 hour turnaround on routine claims",
+      "Check state regulations early\u2014rules vary significantly by region"
+    ],
+    "pdfUrl": "/guides/pdf/medical-billing-company-vetting-guide.pdf",
+    "category": "Vetting"
+  },
+  {
+    "slug": "medical-billing-rate-guide-2026",
+    "title": "Medical Billing Rate Guide 2026",
+    "subtitle": "See what medical billing should cost in your state",
+    "description": "Practice managers need accurate pricing data to make billing outsourcing decisions. This guide reveals 2026 market rates by state, practice size, and fee structure\u2014so you budget accurately and negotiate confidently.",
+    "bullets": [
+      "Benchmark your current rates against all 50 states' data",
+      "See per-claim, percentage, and monthly fee structure ranges",
+      "Identify overpriced contracts with state-specific market comparisons",
+      "Negotiate confidently using CHBME-backed 2026 benchmark data"
+    ],
+    "pdfUrl": "/guides/pdf/medical-billing-rate-guide-2026.pdf",
+    "category": "Pricing"
+  },
+  {
+    "slug": "rcm-vendor-transition-checklist",
+    "title": "RCM Vendor Transition Checklist",
+    "subtitle": "Protect your revenue during every RCM vendor transition",
+    "description": "RCM vendor transitions risk revenue loss and compliance gaps. This checklist walks practice managers through each critical handoff step, from data validation to claims reconciliation. CHBME-certified advisors use this framework to prevent billing disruptions and protect cash flow.",
+    "bullets": [
+      "Prevent $50K+ revenue loss with pre-transition claims validation",
+      "Navigate vendor handoff without disrupting billing operations",
+      "Verify HIPAA and claims payer compliance requirements",
+      "Use the exact vendor transition steps RCM pros recommend"
+    ],
+    "pdfUrl": "/guides/pdf/rcm-vendor-transition-checklist.pdf",
+    "category": "How-To"
+  }
+]

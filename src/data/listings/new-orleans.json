@@ -1,0 +1,218 @@
+[
+  {
+    "slug": "medical-healthcare-solutions-mhs-new-orleans",
+    "name": "Medical Healthcare Solutions (MHS)",
+    "city": "New Orleans",
+    "state": "LA",
+    "address": "Not available",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "phone": "Not available",
+    "website": "https://medicalhealthcaresolutions.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Medical billing and credentialing services provider helping Louisiana healthcare providers maximize revenue and streamline billing operations",
+    "certifications": [],
+    "services": [
+      "Medical billing",
+      "Credentialing",
+      "Revenue cycle management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:29",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "Medical billing",
+        "Credentialing",
+        "Revenue cycle management"
+      ],
+      "highlights": [
+        {
+          "text": "Customized patient billing solutions",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Maximizes revenue and eliminates billing chaos",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Medical billing and credentialing services provider helping Louisiana healthcare providers maximize revenue and streamline billing operations"
+    }
+  },
+  {
+    "slug": "precision-practice-management-new-orleans",
+    "name": "Precision Practice Management",
+    "city": "New Orleans",
+    "state": "LA",
+    "address": "Not available",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "phone": "Not available",
+    "website": "https://www.precisionpractice.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provider of full-range revenue cycle solutions, medical coding, charge coding, credentialing, and technical support to medical practices in Louisiana",
+    "certifications": [],
+    "services": [
+      "Revenue cycle solutions",
+      "Medical coding",
+      "Charge coding",
+      "Credentialing",
+      "Technical support",
+      "Coding and auditing services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:29",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "Revenue cycle solutions",
+        "Medical coding",
+        "Charge coding",
+        "Credentialing",
+        "Technical support"
+      ],
+      "highlights": [
+        {
+          "text": "Expert staff carefully review documentation to ensure accurate codes are billed",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Supports medical practices anywhere in Louisiana",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Provider of full-range revenue cycle solutions, medical coding, charge coding, credentialing, and technical support to medical practices in Louisiana"
+    }
+  },
+  {
+    "slug": "rcm-matter-new-orleans",
+    "name": "RCM Matter",
+    "city": "New Orleans",
+    "state": "LA",
+    "address": "Not available",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "phone": "Not available",
+    "website": "https://rcmmatter.com",
+    "email": "info@rcmmatter.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Expert medical billing and revenue cycle management services provider serving healthcare providers across Louisiana with state-specific regulatory compliance",
+    "certifications": [],
+    "services": [
+      "Medical billing",
+      "Revenue cycle management",
+      "RCM solutions"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:29",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "Medical billing",
+        "Revenue cycle management",
+        "RCM solutions"
+      ],
+      "highlights": [
+        {
+          "text": "Serves healthcare providers across all 50 states",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Adapts to each state's regulations, payer mix, and specialty-specific needs",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Expert medical billing and revenue cycle management services provider serving healthcare providers across Louisiana with state-specific regulatory compliance"
+    }
+  },
+  {
+    "slug": "talberts-medical-billing-new-orleans",
+    "name": "Talbert's Medical Billing",
+    "city": "New Orleans",
+    "state": "LA",
+    "address": "Not available",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "phone": "Not available",
+    "website": "https://www.talbertsmedical.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full-service medical billing and credentialing company with 30+ years of experience specializing in behavioral health billing, prior authorizations, and denial management",
+    "certifications": [],
+    "services": [
+      "Medical billing",
+      "Credentialing",
+      "Behavioral health billing",
+      "Prior authorizations",
+      "Denial management",
+      "Coding review",
+      "Claim submission",
+      "Insurance follow-up",
+      "Payment posting",
+      "Patient statements",
+      "Consultation",
+      "100% HIPAA-compliant solutions"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:29",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "Medical billing",
+        "Credentialing",
+        "Behavioral health billing",
+        "Prior authorizations",
+        "Denial management"
+      ],
+      "highlights": [
+        {
+          "text": "Experienced staff of certified medical billers and coders",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Ensures timely and correct reimbursement from insurance carriers",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Full-service medical billing and credentialing company with 30+ years of experience specializing in behavioral health billing, prior authorizations, and denial management"
+    }
+  }
+]

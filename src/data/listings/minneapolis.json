@@ -1,0 +1,290 @@
+[
+  {
+    "slug": "billing-buddies-minneapolis",
+    "name": "Billing Buddies",
+    "city": "Minneapolis",
+    "state": "MN",
+    "address": "",
+    "lat": 44.9778,
+    "lng": -93.265,
+    "phone": "2147483647",
+    "website": "https://billingbuddies.com",
+    "email": "info@billingbuddies.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Trusted medical billing company specializing in chiropractic billing and medical billing consulting services in Minnesota.",
+    "certifications": [],
+    "services": [
+      "chiropractic billing",
+      "medical billing consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:18",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "responsive",
+        "reliable",
+        "professional",
+        "helpful",
+        "long-term partnership",
+        "trustworthy"
+      ],
+      "highlights": [
+        {
+          "text": "I have nothing but praise for their work.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They were always responsive to any of our questions and concerns.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I highly recommend Billing Buddies for medical billing service.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Amazing to work with to get all the loose ends tied up.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Billing Buddies maintains exceptional client loyalty and satisfaction through responsive, reliable service, with a 20-year client relationship demonstrating trustworthiness and professional excellence."
+    }
+  },
+  {
+    "slug": "claimcare-minneapolis",
+    "name": "ClaimCare",
+    "city": "Minneapolis",
+    "state": "MN",
+    "address": "",
+    "lat": 44.9778,
+    "lng": -93.265,
+    "phone": "9478569390",
+    "website": "https://www.claimcare.net",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Experienced medical billing services with deep expertise in Minnesota since 1992, offering technology, EMR, reporting, and service.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "EMR integration",
+      "reporting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:18",
+    "sentiment": null
+  },
+  {
+    "slug": "mn-medical-billing-minneapolis",
+    "name": "MN Medical Billing",
+    "city": "Minneapolis",
+    "state": "MN",
+    "address": "",
+    "lat": 44.9778,
+    "lng": -93.265,
+    "phone": "651-444-8512",
+    "website": "https://www.mnmedicalbilling.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Minnesota company providing professional medical billing, bookkeeping, and consulting services tailored to care providers.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "bookkeeping",
+      "billing consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:18",
+    "sentiment": null
+  },
+  {
+    "slug": "medheave-minneapolis",
+    "name": "Medheave",
+    "city": "Minneapolis",
+    "state": "MN",
+    "address": "",
+    "lat": 44.9778,
+    "lng": -93.265,
+    "phone": "8571428571",
+    "website": "https://medheave.com",
+    "email": "info@medheave.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Provides end-to-end revenue cycle management, claim submission, tracking, CPT and ICD-10 coding compliance, and customized billing plans throughout Minnesota.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "coding services",
+      "revenue cycle management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:18",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "medicine billing",
+        "quality service",
+        "invisible",
+        "seamless",
+        "professional"
+      ],
+      "highlights": [
+        {
+          "text": "The art of medicine billing is all about being so good that billers are invisible",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Medheave delivers seamless, high-quality medical billing services where the process works so well it operates invisibly to clients."
+    }
+  },
+  {
+    "slug": "precision-practice-management-minneapolis",
+    "name": "Precision Practice Management",
+    "city": "Minneapolis",
+    "state": "MN",
+    "address": "",
+    "lat": 44.9778,
+    "lng": -93.265,
+    "phone": "844-525-8500",
+    "website": "https://www.precisionpractice.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Offers comprehensive revenue cycle management, medical coding, credentialing, and technical support to practices across Minnesota including Minneapolis, St. Paul, and Rochester.",
+    "certifications": [],
+    "services": [
+      "revenue cycle management",
+      "medical coding",
+      "credentialing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:18",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.9,
+      "keywords": [
+        "collections",
+        "claims recovery",
+        "billing transition",
+        "proactive",
+        "efficient",
+        "results-driven"
+      ],
+      "highlights": [
+        {
+          "text": "able to collect AR claims that would normally be written-off",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They stepped up and took control of the transition",
+          "sentiment": "positive"
+        },
+        {
+          "text": "generated normal collections in a short time",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Precision Practice Management excels at proactive AR recovery, managing transitions competently, and delivering measurable results quickly."
+    }
+  },
+  {
+    "slug": "transcure-minneapolis",
+    "name": "Transcure",
+    "city": "Minneapolis",
+    "state": "MN",
+    "address": "",
+    "lat": 44.9778,
+    "lng": -93.265,
+    "phone": "1103337663",
+    "website": "https://transcure.net",
+    "email": "info@transcure.net",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Leading medical billing company offering automated RCM, specialty-focused billing, credentialing, charge entry, claim submission, supporting over 40 specialties and major EMR systems.",
+    "certifications": [],
+    "services": [
+      "revenue cycle management",
+      "credentialing",
+      "claim submission"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:18",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.92,
+      "keywords": [
+        "knowledgeable team",
+        "seamless transition",
+        "communication",
+        "expertise",
+        "efficiency",
+        "proactive"
+      ],
+      "highlights": [
+        {
+          "text": "Truly, the easiest transition I could ever imagine. And their services are fantastic!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Communication is always clear and timely. Their team is knowledgeable, responsive, and efficient.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We are incredibly impressed with Transcure Medical Billing Services' medical billing expertise.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "A little room for improvement in reporting details",
+          "sentiment": "negative"
+        }
+      ],
+      "summary": "Transcure Medical Billing receives overwhelmingly positive reviews for seamless onboarding, expert team knowledge, reliable communication, and operational efficiency gains, with only one minor suggestion to enhance reporting details."
+    }
+  }
+]

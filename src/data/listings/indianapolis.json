@@ -1,0 +1,648 @@
+[
+  {
+    "slug": "astron-ehs-indianapolis",
+    "name": "Astron EHS",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.1,
+    "review_count": 0,
+    "description": "Medical and dental billing with coding audits, credentialing, cost-effective offshore model.",
+    "certifications": [],
+    "services": [
+      "eligibility verification",
+      "coding audits",
+      "AR follow-up"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:36",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.77,
+      "keywords": [
+        "eligibility verification",
+        "coding audits",
+        "AR follow-up"
+      ],
+      "highlights": [
+        {
+          "text": "Dual expertise in medical and dental",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Highly cost-effective",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Medical and dental billing with coding audits, credentialing, cost-effective offshore model."
+    }
+  },
+  {
+    "slug": "claimaid-indianapolis",
+    "name": "ClaimAid",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Billing partner for healthcare teams with full revenue cycle support.",
+    "certifications": [],
+    "services": [
+      "revenue cycle management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:36",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "revenue cycle management"
+      ],
+      "highlights": [
+        {
+          "text": "Billing partner for healthcare teams",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Billing partner for healthcare teams with full revenue cycle support."
+    }
+  },
+  {
+    "slug": "complete-billing-services-llc-cbs-medical-billing-indianapolis",
+    "name": "Complete Billing Services, LLC (CBS Medical Billing)",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "1603601293",
+    "website": "https://www.cbsmedicalbilling.com",
+    "email": "info@cbsmedicalbilling.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Personalized medical billing solutions to boost cash flow for Indiana practices.",
+    "certifications": [],
+    "services": [
+      "revenue cycle management",
+      "consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:36",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "revenue cycle management",
+        "consulting"
+      ],
+      "highlights": [
+        {
+          "text": "Commitment to excellence",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Personalized service",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Personalized medical billing solutions to boost cash flow for Indiana practices."
+    }
+  },
+  {
+    "slug": "insurance-billing-outsourcing-indianapolis",
+    "name": "Insurance Billing Outsourcing",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Flexible medical and dental billing services managing full billing cycle for hospitals and clinics.",
+    "certifications": [],
+    "services": [
+      "denial management",
+      "patient billing",
+      "claim submission"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:36",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "denial management",
+        "patient billing",
+        "claim submission"
+      ],
+      "highlights": [
+        {
+          "text": "Manages full billing cycle",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Fights denials",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Flexible medical and dental billing services managing full billing cycle for hospitals and clinics."
+    }
+  },
+  {
+    "slug": "med-bill-corp-indianapolis",
+    "name": "Med-Bill Corp",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Expert ambulance and EMS billing with compliance support, over 50 years combined experience.",
+    "certifications": [],
+    "services": [
+      "EMS billing",
+      "compliance services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:36",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "EMS billing",
+        "compliance services"
+      ],
+      "highlights": [
+        {
+          "text": "Dedicated to highest quality customer care",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Excellent billing and compliance",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Expert ambulance and EMS billing with compliance support, over 50 years combined experience."
+    }
+  },
+  {
+    "slug": "medcare-mso-indianapolis",
+    "name": "MedCare MSO",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "800-640-6409",
+    "website": "https://medcaremso.com",
+    "email": "info@medcaremso.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 5.0,
+    "review_count": 0,
+    "description": "Nationwide revenue cycle solutions for 50+ specialties with 1,200+ certified billers.",
+    "certifications": [],
+    "services": [
+      "revenue cycle management",
+      "denial management",
+      "analytics"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:36",
+    "sentiment": {
+      "label": "positive",
+      "score": 1.0,
+      "keywords": [
+        "revenue cycle management",
+        "denial management",
+        "analytics"
+      ],
+      "highlights": [
+        {
+          "text": "5-star client rating",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Fewer denials, faster payments",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Nationwide revenue cycle solutions for 50+ specialties with 1,200+ certified billers."
+    }
+  },
+  {
+    "slug": "medi-bill-services-indianapolis",
+    "name": "Medi-Bill Services",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Local partner for independent practices, family medicine, and pediatrics with knowledge of Indiana payers.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "payer compliance"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:36",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "medical billing",
+        "payer compliance"
+      ],
+      "highlights": [
+        {
+          "text": "Customer-contact integrity",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Knowledge of Indiana payer policies",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Local partner for independent practices, family medicine, and pediatrics with knowledge of Indiana payers."
+    }
+  },
+  {
+    "slug": "medical-business-services-mbs-indianapolis",
+    "name": "Medical Business Services (MBS)",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Specialty billing for orthopedics, cardiology, gastroenterology with AR cleanup expertise.",
+    "certifications": [],
+    "services": [
+      "specialty coding",
+      "AR management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:36",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "specialty coding",
+        "AR management"
+      ],
+      "highlights": [
+        {
+          "text": "Experienced in specialty billing",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Payer compliance expertise",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Specialty billing for orthopedics, cardiology, gastroenterology with AR cleanup expertise."
+    }
+  },
+  {
+    "slug": "missing-piece-billing-and-consulting-solutions-indianapolis",
+    "name": "Missing Piece Billing and Consulting Solutions",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Specialized in ABA therapy, behavioral health billing with 99% clean claims processing.",
+    "certifications": [],
+    "services": [
+      "behavioral health billing",
+      "specialty coding",
+      "transparent reporting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:36",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "behavioral health billing",
+        "specialty coding",
+        "transparent reporting"
+      ],
+      "highlights": [
+        {
+          "text": "99% of clean claims processed",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Experts in specialty coding",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Specialized in ABA therapy, behavioral health billing with 99% clean claims processing."
+    }
+  },
+  {
+    "slug": "precision-practice-management-indianapolis",
+    "name": "Precision Practice Management",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "844-525-8500",
+    "website": "https://www.precisionpractice.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Full revenue cycle solutions, medical coding, credentialing for practices statewide.",
+    "certifications": [],
+    "services": [
+      "revenue cycle management",
+      "medical coding",
+      "credentialing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:36",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.88,
+      "keywords": [
+        "accounts receivable collection",
+        "efficient transition",
+        "responsive",
+        "billing management",
+        "revenue recovery"
+      ],
+      "highlights": [
+        {
+          "text": "Precision pursued AR claims that would normally be written-off and was able to collect.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They stepped up and took control of the transition from our old billing service and generated normal collections in a short time.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Precision Practice Management receives strong praise for effective AR collection, seamless service transitions, and quick revenue recovery results."
+    }
+  },
+  {
+    "slug": "revele-md-indianapolis",
+    "name": "Revele MD",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Tech-driven billing integrated with eClinicalWorks and advancedMD EHR, denial resolution workflows.",
+    "certifications": [],
+    "services": [
+      "EHR integration",
+      "denial resolution",
+      "patient payments"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:36",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "EHR integration",
+        "denial resolution",
+        "patient payments"
+      ],
+      "highlights": [
+        {
+          "text": "Seamless EHR integration",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Fights and fixes denials",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Tech-driven billing integrated with eClinicalWorks and advancedMD EHR, denial resolution workflows."
+    }
+  },
+  {
+    "slug": "transcure-indianapolis",
+    "name": "Transcure",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "1103337663",
+    "website": "https://transcure.net",
+    "email": "info@transcure.net",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "AI-powered full-service revenue cycle management (RCM) with specialized billing agents for healthcare practices.",
+    "certifications": [],
+    "services": [
+      "AI-driven billing",
+      "revenue cycle management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:36",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.94,
+      "keywords": [
+        "knowledgeable",
+        "seamless",
+        "expertise",
+        "responsive",
+        "communication",
+        "efficient"
+      ],
+      "highlights": [
+        {
+          "text": "Truly, the easiest transition I could ever imagine. And their services are fantastic!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Their expertise, accuracy, and dedication have made a noticeable impact on our practice's efficiency and bottom line",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We are incredibly impressed with Transcure Medical Billing Services' medical billing expertise",
+          "sentiment": "positive"
+        },
+        {
+          "text": "While there's still a little room for improvement in reporting details",
+          "sentiment": "negative"
+        }
+      ],
+      "summary": "Transcure Medical Billing receives overwhelmingly positive reviews for seamless client transitions, knowledgeable and responsive teams, regulatory compliance expertise, and measurable improvements to practice efficiency and cash flow, with one minor note on reporting detail enhancements."
+    }
+  },
+  {
+    "slug": "veracity-medical-billing-indianapolis",
+    "name": "Veracity Medical Billing",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Personalized billing support for small to midsize practices with 95% first-pass claims approval.",
+    "certifications": [],
+    "services": [
+      "claim filing",
+      "denial management",
+      "AR follow-up"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:36",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "claim filing",
+        "denial management",
+        "AR follow-up"
+      ],
+      "highlights": [
+        {
+          "text": "95% of claims approved on first try",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Files claims in 48 hours or less",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Personalized billing support for small to midsize practices with 95% first-pass claims approval."
+    }
+  }
+]

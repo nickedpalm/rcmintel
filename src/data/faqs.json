@@ -1,0 +1,50 @@
+[
+  {
+    "question": "How much does a medical billing service typically cost?",
+    "answer": "Most medical billing services charge 4\u20138% of collections, though flat-fee models exist. The percentage varies by specialty, practice size, and services included. Core claim submission is usually bundled, but patient statements, credentialing support, and A/R follow-up beyond 90 days are often add-ons. Get an itemized scope before signing to avoid surprises."
+  },
+  {
+    "question": "What's included in the standard fee vs. what costs extra?",
+    "answer": "Standard fees typically cover claim submission, basic denial resubmission, and monthly reporting. Patient statement mailing, inbound patient billing calls, credentialing assistance, and collections on aged accounts often carry additional charges. Ask for a written service scope that lists every line item and what triggers an overage fee."
+  },
+  {
+    "question": "What collection rates and denial percentages should I expect?",
+    "answer": "Top-tier services target a 95%+ first-pass claim acceptance rate and keep denials under 5%. Ask any prospective service to share their actual trailing-12-month metrics for practices in your specialty, not just their best-case numbers. Benchmarks that look too clean without supporting data are a red flag."
+  },
+  {
+    "question": "How do you handle denied claims and aged A/R?",
+    "answer": "Reputable services track denials in real time, identify root causes by payer and code, correct and resubmit, and pursue claims in the 90+ day bucket. Ask specifically what happens to low-dollar claims\u2014some services stop working accounts under a threshold, which quietly erodes collections. Denial rates commonly run 10\u201320% industry-wide, so this process matters."
+  },
+  {
+    "question": "Do you have experience billing for my specific specialty?",
+    "answer": "Specialty-specific coding knowledge directly affects approval rates. A service experienced in orthopedics or behavioral health will know the modifiers, bundling rules, and payer quirks that a generalist biller may miss. Ask for references from practices in your specialty and request their denial rate by code family before committing."
+  },
+  {
+    "question": "Are you HIPAA-compliant, and how is patient data protected?",
+    "answer": "Any service handling PHI must maintain HIPAA-compliant infrastructure: encrypted data transfer, role-based access controls, regular audits, and signed Business Associate Agreements. Ask for their most recent security audit summary and confirm staff receive annual HIPAA training. A breach exposes the practice, not just the vendor."
+  },
+  {
+    "question": "Which parts of the revenue cycle do you actually manage?",
+    "answer": "Some services cover only claim submission; others manage the full cycle including coding review, eligibility verification, denial management, patient billing, and A/R follow-up. Partial coverage means your staff still handles the hard parts. Map out every handoff point before contracting so nothing falls through the gap."
+  },
+  {
+    "question": "Is your platform compatible with my EHR or practice management software?",
+    "answer": "Most established services integrate with common systems like Epic, Athenahealth, eClinicalWorks, and Kareo without requiring a full migration. Confirm the integration method\u2014direct API, file-based export, or a middleware layer\u2014and ask who owns the cost if a software update breaks the connection. Incompatibility mid-transition is a significant revenue risk."
+  },
+  {
+    "question": "What reports will I receive and how often?",
+    "answer": "Expect at minimum monthly reporting covering claims status, A/R aging by payer, denial reasons, and net collection rate. Better services offer a live dashboard. If a vendor can't show you a sample report before you sign, that's a warning sign\u2014poor visibility into billing performance is one of the most common complaints practices have after switching."
+  },
+  {
+    "question": "How long does onboarding take, and what disruption should I expect?",
+    "answer": "Most onboarding processes run 30\u201360 days and involve data migration, system integration, credentialing review, and parallel testing. Expect some lag in cash flow during the transition. Ask whether they run claims in parallel with your current system during a handover period, and get a written timeline with milestones."
+  },
+  {
+    "question": "Can you handle patient billing calls and statement mailing?",
+    "answer": "Many services include or offer patient-facing billing support\u2014statement generation, mailing, inbound call handling, and soft collections. This can significantly reduce front-desk burden in high-volume clinics, but confirm the scope. Some services only mail statements and don't take patient calls, which still leaves your staff managing disputes."
+  },
+  {
+    "question": "What are the warning signs of a low-quality medical billing service?",
+    "answer": "Watch for vague or all-inclusive pricing with no itemization, inability to provide specialty-specific references, no sample reports, staff turnover that disrupts account ownership, and guaranteed collection percentages that exceed industry norms. Services that can't explain their denial appeal workflow or won't share performance data before contracting are worth avoiding."
+  }
+]

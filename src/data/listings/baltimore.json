@@ -1,0 +1,155 @@
+[
+  {
+    "slug": "practice-management-specialists-baltimore",
+    "name": "Practice Management Specialists",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "Not provided in search results",
+    "lat": 39.2904,
+    "lng": -76.6122,
+    "phone": "Not provided in search results",
+    "website": "https://www.medicalbillingmaryland.net",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Experienced team handling medical claims billing with expertise in coding review, insurance verification, and compatibility with major EHR and practice management software systems.",
+    "certifications": [],
+    "services": [
+      "medical claims billing",
+      "coding review",
+      "insurance verification",
+      "EHR and practice management software support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:03",
+    "sentiment": null
+  },
+  {
+    "slug": "precision-practice-management-baltimore",
+    "name": "Precision Practice Management",
+    "city": "Baltimore",
+    "state": "MD",
+    "address": "Not provided in search results",
+    "lat": 39.2904,
+    "lng": -76.6122,
+    "phone": "Not provided in search results",
+    "website": "https://www.precisionpractice.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides full range of revenue cycle solutions, medical coding, charge coding, credentialing, and technical support to medical practices throughout Maryland including Baltimore, Silver Spring, and Waldorf.",
+    "certifications": [],
+    "services": [
+      "revenue cycle solutions",
+      "medical coding",
+      "charge coding",
+      "credentialing",
+      "technical support",
+      "coding and auditing services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:03",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "collections",
+        "accounts receivable",
+        "proactive",
+        "transition management",
+        "efficient",
+        "results-driven"
+      ],
+      "highlights": [
+        {
+          "text": "pursued AR claims that would normally be written-off and was able to collect",
+          "sentiment": "positive"
+        },
+        {
+          "text": "stepped up and took control of the transition from our old billing service",
+          "sentiment": "positive"
+        },
+        {
+          "text": "generated normal collections in a short time",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Highly positive reputation for proactive accounts receivable management, seamless service transitions, and delivering rapid revenue collection results."
+    }
+  },
+  {
+    "slug": "rowan-billing-services-baltimore",
+    "name": "Rowan Billing Services",
+    "city": "Baltimore",
+    "state": "NC",
+    "address": "",
+    "lat": 39.2904,
+    "lng": -76.6122,
+    "phone": "1777150527",
+    "website": "https://rowanbillingservices.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Small, private medical billing service owned by Susan Mills, providing rapid, customized solutions for practices of all sizes over 15 years.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "claims filing",
+      "reimbursement processing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:05",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "responsive",
+        "reliable",
+        "professional",
+        "friendly",
+        "knowledgeable",
+        "accessible"
+      ],
+      "highlights": [
+        {
+          "text": "Rowan Billing has become so much more than a billing company...almost family",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They go above and beyond and are always willing to help with great attitudes",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I cannot imagine running my practice without their expertise and knowledge",
+          "sentiment": "positive"
+        },
+        {
+          "text": "It's a relief to reach someone without navigating automated systems and voicemails",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Rowan Billing Services enjoys exceptional reputation with 16 uniformly positive reviews praising responsiveness, reliability, expertise, and personalized service in healthcare billing."
+    }
+  }
+]

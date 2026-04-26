@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "medcare-mso-dallas",
+    "name": "MedCare MSO",
+    "city": "Dallas",
+    "state": "TX",
+    "address": "",
+    "lat": 32.7767,
+    "lng": -96.797,
+    "phone": "800-640-6409",
+    "website": "https://medcaremso.com",
+    "email": "info@medcaremso.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Top medical billing company serving practices across Texas major metros, supporting over 50 clinical specialties for small, mid, and large practices.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "revenue cycle management",
+      "multi-specialty support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:32",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "excellent service",
+        "responsive communication",
+        "efficient",
+        "revenue growth",
+        "billing expertise",
+        "trusted partner"
+      ],
+      "highlights": [
+        {
+          "text": "exceptional communication and expertise elevated our RCM experience and my bank accounts!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "reduced our claim denials by up to 20% and resolved all of our billing challenges",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They excel in revenue cycle management and truly feel like a partner",
+          "sentiment": "positive"
+        },
+        {
+          "text": "rectified all the mistakes from my previous billing partner. They are so fast and efficient",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "MedCare MSO has overwhelmingly positive reviews praising their billing expertise, responsive communication, efficiency, and measurable impact on revenue and claim management."
+    }
+  }
+]

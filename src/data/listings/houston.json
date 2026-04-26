@@ -1,0 +1,305 @@
+[
+  {
+    "slug": "healthcare-partners-consulting-and-billing-hpc-billing-houston",
+    "name": "Healthcare Partners Consulting and Billing (HPC Billing)",
+    "city": "Houston",
+    "state": "TX",
+    "address": "",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "phone": "3958357152",
+    "website": "https://hpcbilling.com",
+    "email": "Info@hpcbilling.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Ranks #1 for Texas medical and mental health billing, end-to-end services including claims submission, denial management, payer follow-up, strong behavioral health expertise.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "mental health billing",
+      "denial management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:32",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "expertise",
+        "reliability",
+        "transformed practice",
+        "exceptional service",
+        "administrative efficiency"
+      ],
+      "highlights": [
+        {
+          "text": "HPC has transformed our practice. Their billing expertise increased our revenue by 30%",
+          "sentiment": "positive"
+        },
+        {
+          "text": "exceptional professionalism, accuracy, and reliability qualities that are essential",
+          "sentiment": "positive"
+        },
+        {
+          "text": "There has been a great deal of consistency, support, and diligence from your team",
+          "sentiment": "positive"
+        },
+        {
+          "text": "This is why I love HPC!!",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "HPC Billing has an outstanding reputation with unanimous 5-star reviews praising their expertise, professionalism, reliability, and ability to increase revenue while freeing healthcare providers to focus on patient care."
+    }
+  },
+  {
+    "slug": "lone-star-revenue-group-houston",
+    "name": "Lone Star Revenue Group",
+    "city": "Houston",
+    "state": "TX",
+    "address": "",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Top-ranked for medical and mental health billing in Texas with local knowledge and EHR integrations.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "mental health billing",
+      "EHR integrations"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:32",
+    "sentiment": null
+  },
+  {
+    "slug": "medibill-rcm-llc-houston",
+    "name": "MediBill RCM LLC",
+    "city": "Houston",
+    "state": "TX",
+    "address": "",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "phone": "1776670346",
+    "website": "https://www.medibillrcm.com",
+    "email": "info@medibillrcm.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Texas-based RCM medical billing company offering integrated services including verification, coding, claims scrubbing, submission, posting, appeals; 99.9% claim acceptance, AR under 24 days.",
+    "certifications": [],
+    "services": [
+      "patient eligibility verification",
+      "ICD-10/CPT coding",
+      "claims submission",
+      "appeals management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:32",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "exceptional service",
+        "professional",
+        "quick response",
+        "effective communication",
+        "improved results",
+        "expertise"
+      ],
+      "highlights": [
+        {
+          "text": "Excellent credentialing. Very quick. Great response time.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Significantly improved our claim processing and reimbursement rates",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Fewer claim denials and quicker payments",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Professionalism and dedication have been invaluable",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "MediBill RCM receives overwhelmingly positive reviews praising exceptional service, professional expertise, rapid response times, and measurable improvements in claim processing and reimbursement outcomes."
+    }
+  },
+  {
+    "slug": "puredi-houston",
+    "name": "PUREDI",
+    "city": "Houston",
+    "state": "TX",
+    "address": "",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Best for small and independent practices, featured in multiple top Texas billing lists.",
+    "certifications": [],
+    "services": [
+      "medical billing for small practices"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:32",
+    "sentiment": null
+  },
+  {
+    "slug": "precision-practice-management-houston",
+    "name": "Precision Practice Management",
+    "city": "Houston",
+    "state": "TX",
+    "address": "",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Featured in top lists for Austin and Texas medical billing companies.",
+    "certifications": [],
+    "services": [
+      "practice management",
+      "medical billing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:32",
+    "sentiment": null
+  },
+  {
+    "slug": "storm-medical-billing-houston",
+    "name": "Storm Medical Billing",
+    "city": "Houston",
+    "state": "TX",
+    "address": "",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Best for mid and large sized practices, featured in top lists for Texas billing services.",
+    "certifications": [],
+    "services": [
+      "medical billing for mid-large practices"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:32",
+    "sentiment": null
+  },
+  {
+    "slug": "swift-medical-billing-houston",
+    "name": "Swift Medical Billing",
+    "city": "Houston",
+    "state": "TX",
+    "address": "",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "phone": "1561854528",
+    "website": "https://swiftmds.com",
+    "email": "hello@swiftmds.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Modern Texas company specializing in comprehensive RCM with automation and compliance to local prompt-pay rules, for clinics of all sizes.",
+    "certifications": [],
+    "services": [
+      "revenue cycle management",
+      "automation",
+      "compliance"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:32",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional",
+        "efficient",
+        "supportive",
+        "claims recovery",
+        "game-changer",
+        "stress-free"
+      ],
+      "highlights": [
+        {
+          "text": "This service has been a complete game changer for our practice.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Their ability to recover claims significantly increased our revenue.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Swift made our credentialing process seamless and stress-free.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "You won't be disappointed.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Universally praised for professional, efficient billing services that save time, money, and streamline practice operations."
+    }
+  }
+]

@@ -1,0 +1,621 @@
+[
+  {
+    "slug": "fastnet-medical-billing-llc-portland",
+    "name": "Fastnet Medical Billing LLC",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Growing billing company focused on improving collections for small practices with claims submission and payment posting.",
+    "certifications": [],
+    "services": [
+      "claims submission",
+      "payment posting",
+      "billing support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:15",
+    "sentiment": null
+  },
+  {
+    "slug": "hudson-medical-services-portland",
+    "name": "Hudson Medical Services",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Local Oregon company specializing in billing, collections, contracting support, and revenue improvement strategies.",
+    "certifications": [],
+    "services": [
+      "billing and collections",
+      "contracting support",
+      "revenue strategies"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:15",
+    "sentiment": null
+  },
+  {
+    "slug": "jrs-billing-solutions-portland",
+    "name": "JRS Billing Solutions",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Flexible billing and consulting partner with expertise in revenue cycle management and state compliance.",
+    "certifications": [],
+    "services": [
+      "billing services",
+      "consulting",
+      "compliance"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:15",
+    "sentiment": null
+  },
+  {
+    "slug": "mba-medical-services-portland",
+    "name": "MBA Medical Services",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "1534969247",
+    "website": "https://mbamedical.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Helps Portland healthcare professionals manage medical coding and billing practices for over two decades.",
+    "certifications": [],
+    "services": [
+      "medical coding",
+      "billing services",
+      "insurance management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:15",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "quality service",
+        "integrity",
+        "responsive",
+        "attention to detail",
+        "reliable",
+        "professional"
+      ],
+      "highlights": [
+        {
+          "text": "This company goes the extra mile to produce quality service with integrity.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The MBA team does a fantastic job with attention to detail and quality control.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I recommend MBA without reservations.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They're always willing to go the distance on service!",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "MBA Medical Services receives overwhelmingly positive reviews from healthcare professionals praising quality service, integrity, responsiveness, and exceptional attention to detail."
+    }
+  },
+  {
+    "slug": "medical-management-support-services-portland",
+    "name": "Medical Management Support Services",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Experienced provider with customized billing solutions, practice-specific strategies, and strong compliance focus.",
+    "certifications": [],
+    "services": [
+      "customized billing",
+      "compliance management",
+      "billing accuracy"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:15",
+    "sentiment": null
+  },
+  {
+    "slug": "mindease-billing-portland",
+    "name": "MindEase Billing",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "1464868922",
+    "website": "https://mindeasebilling.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full-service medical billing for mental health practitioners in solo practice, primarily in Oregon, serving MDs, MHNPs, psychologists, and counselors.",
+    "certifications": [],
+    "services": [
+      "mental health billing",
+      "claims submission",
+      "revenue cycle for solos"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:15",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "game changer",
+        "peace of mind",
+        "attention to detail",
+        "responsiveness",
+        "dedicated",
+        "expertise",
+        "streamlined communication"
+      ],
+      "highlights": [
+        {
+          "text": "Hiring MindEase Billing was the best decision I ever made for my fledgling private practice.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "It's been a game changer for me, allowing me to focus on my practice while trusting billing is handled with professionalism.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Their streamlined communication, attention to detail, and handling of insurance matters have been priceless.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They are truly dedicated and competent professionals and are a pleasure to work with.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "MindEase Billing receives overwhelmingly positive reviews from mental health professionals praising their expertise, professionalism, responsiveness, and ability to enable practitioners to focus on clinical work rather than insurance complexities."
+    }
+  },
+  {
+    "slug": "oregon-coast-billing-services-portland",
+    "name": "Oregon Coast Billing Services",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Regional provider offering billing and financial services for small clinics and independent providers.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "financial services",
+      "small practice support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:15",
+    "sentiment": null
+  },
+  {
+    "slug": "physicians-revenue-group-inc-portland",
+    "name": "Physicians Revenue Group, Inc.",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "1776963401",
+    "website": "https://prgmd.com",
+    "email": "%20info@prgmd.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Serves medical billing and complete revenue management services in Oregon for over two decades, assisting practices, hospitals, labs, and clinics.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "revenue management",
+      "specialty billing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:15",
+    "sentiment": {
+      "label": "mixed",
+      "score": 0.5,
+      "keywords": [],
+      "highlights": [],
+      "summary": "No customer reviews provided - input contains only service listings and feature tags with no sentiment-bearing text"
+    }
+  },
+  {
+    "slug": "pivot-billing-portland",
+    "name": "Pivot Billing",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "1698350896",
+    "website": "https://www.pivotbilling.com",
+    "email": "user@domain.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Mental health billing service provider in Oregon offering billing, statements, credentialing, and contracting with transparent pricing.",
+    "certifications": [],
+    "services": [
+      "mental health billing",
+      "credentialing",
+      "contracting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:15",
+    "sentiment": null
+  },
+  {
+    "slug": "precision-practice-management-portland",
+    "name": "Precision Practice Management",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "844-525-8500",
+    "website": "https://www.precisionpractice.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides revenue cycle solutions, medical coding, charge coding, credentialing, and technical support to medical practices across Oregon including Portland, Eugene, Salem, and Gresham.",
+    "certifications": [],
+    "services": [
+      "revenue cycle management",
+      "medical coding",
+      "credentialing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:15",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.9,
+      "keywords": [
+        "collections",
+        "effective",
+        "responsive",
+        "transition management",
+        "accounts receivable recovery",
+        "results-oriented"
+      ],
+      "highlights": [
+        {
+          "text": "Precision pursued AR claims that would normally be written-off and was able to collect",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They stepped up and took control of the transition from our old billing service",
+          "sentiment": "positive"
+        },
+        {
+          "text": "generated normal collections in a short time",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Precision Practice Management receives strong praise for proactive accounts receivable recovery, seamless service transitions, and rapid collection results."
+    }
+  },
+  {
+    "slug": "premier-nx-portland",
+    "name": "Premier NX",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "1776781360",
+    "website": "https://premiernx.com",
+    "email": "info@premiernx.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Outsourced medical billing services in Oregon handling eligibility verification, claims resolution, payment posting, and revenue cycle management.",
+    "certifications": [],
+    "services": [
+      "benefits verification",
+      "claims follow-up",
+      "payment posting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:15",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "professional",
+        "exceeds expectations",
+        "quality",
+        "trusted partnership",
+        "responsive leadership",
+        "efficiency"
+      ],
+      "highlights": [
+        {
+          "text": "In every case and more, they have surpassed those promises.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Your team consistently exceeds our expectations and has enabled us to shift more workload your way.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Their professionalism, efficiency, and quality are top notched.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "AMP Smart feels like its partnership with Premier is a true collaboration.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Uniformly exceptional reputation with clients praising Premier's commitment to exceeding expectations, professional service quality, responsive leadership, and genuine partnership approach across multiple industries."
+    }
+  },
+  {
+    "slug": "sunnybrook-billing-services-llc-portland",
+    "name": "Sunnybrook Billing Services, LLC",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers reliable revenue cycle management services for healthcare practices in Portland.",
+    "certifications": [],
+    "services": [
+      "full revenue cycle management",
+      "claims follow-up",
+      "payment posting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:15",
+    "sentiment": null
+  },
+  {
+    "slug": "transcure-portland",
+    "name": "Transcure",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "1103337663",
+    "website": "https://transcure.net",
+    "email": "info@transcure.net",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Helps healthcare practices manage coding, claims, denial management, and compliance with Oregon Medicaid and CCO regulations using AI-assisted billing and certified coders.",
+    "certifications": [],
+    "services": [
+      "revenue cycle management",
+      "specialty-specific billing",
+      "denial management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:15",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.89,
+      "keywords": [
+        "knowledgeable",
+        "seamless",
+        "responsive",
+        "efficient",
+        "accuracy",
+        "dedicated"
+      ],
+      "highlights": [
+        {
+          "text": "Truly, the easiest transition I could ever imagine. And their services are fantastic!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Knowledgeable team ensured compliance, minimized payment delays, improved cash flow",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Seamless integration into our operations has exceeded expectations",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Room for improvement in reporting details",
+          "sentiment": "negative"
+        }
+      ],
+      "summary": "Transcure is highly trusted for expertise and seamless implementation, with reviewers consistently praising their knowledgeable team and operational improvements."
+    }
+  },
+  {
+    "slug": "ur-billing-solution-llc-portland",
+    "name": "UR Billing Solution LLC",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides medical billing services with experience in revenue cycle management for Portland practices.",
+    "certifications": [],
+    "services": [
+      "claims processing",
+      "denial management",
+      "revenue optimization"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:15",
+    "sentiment": null
+  },
+  {
+    "slug": "whitebird-billing-services-portland",
+    "name": "WhiteBird Billing Services",
+    "city": "Portland",
+    "state": "OR",
+    "address": "",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Trusted billing partner in Oregon offering full healthcare revenue cycle management, denial management, and revenue optimization.",
+    "certifications": [],
+    "services": [
+      "end-to-end billing",
+      "denial management",
+      "revenue optimization"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:07:15",
+    "sentiment": null
+  }
+]

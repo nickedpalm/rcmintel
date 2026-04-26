@@ -1,0 +1,171 @@
+[
+  {
+    "slug": "boston-billing-solutions-boston",
+    "name": "Boston Billing Solutions",
+    "city": "Boston",
+    "state": "MA",
+    "address": "Not provided",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "Not provided",
+    "website": "Not provided",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full-service RCM and medical billing provider serving local practices for over 25 years with flexible service plans",
+    "certifications": [],
+    "services": [
+      "revenue cycle management",
+      "medical billing",
+      "flexible service plans"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:03:43",
+    "sentiment": null
+  },
+  {
+    "slug": "mbm-medical-billing-services-boston",
+    "name": "MBM Medical Billing Services",
+    "city": "Boston",
+    "state": "MA",
+    "address": "Not provided",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "Not provided",
+    "website": "Not provided",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Massachusetts-based company specializing in behavioral health billing and solo provider support with personalized, accessible service",
+    "certifications": [],
+    "services": [
+      "behavioral health billing",
+      "medical billing",
+      "solo provider support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:03:43",
+    "sentiment": null
+  },
+  {
+    "slug": "medheave-boston",
+    "name": "Medheave",
+    "city": "Boston",
+    "state": "MA",
+    "address": "Not provided",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "Not provided",
+    "website": "https://medheave.com",
+    "email": "info@medheave.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "End-to-end medical billing and coding services with certified team offering revenue cycle optimization across 50 states",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "coding services",
+      "revenue cycle management",
+      "claim processing",
+      "denial management",
+      "healthcare data analytics"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:03:43",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.82,
+      "keywords": [
+        "seamless",
+        "excellence",
+        "invisible",
+        "professional",
+        "quality",
+        "healthcare billing"
+      ],
+      "highlights": [
+        {
+          "text": "The art of medicine billing is all about being so good that billers are invisible in the whole process",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Reviews celebrate professional medical billing that operates seamlessly and invisibly, reflecting exceptional quality in healthcare payment processing."
+    }
+  },
+  {
+    "slug": "precision-practice-management-boston",
+    "name": "Precision Practice Management",
+    "city": "Boston",
+    "state": "MA",
+    "address": "Not provided",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "Not provided",
+    "website": "https://www.precisionpractice.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full-range revenue cycle solutions provider serving major metropolitan areas including Boston and Lowell, plus statewide support",
+    "certifications": [],
+    "services": [
+      "revenue cycle management",
+      "medical coding",
+      "charge coding",
+      "credentialing",
+      "technical support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:03:43",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.88,
+      "keywords": [
+        "collections",
+        "accounts receivable",
+        "proactive",
+        "billing transition",
+        "efficient",
+        "results-driven"
+      ],
+      "highlights": [
+        {
+          "text": "Precision pursued AR claims that would normally be written-off and was able to collect",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They stepped up and took control of the transition and generated normal collections in a short time",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Strong positive reputation for proactive accounts receivable recovery and seamless billing transitions with rapid, measurable results."
+    }
+  }
+]

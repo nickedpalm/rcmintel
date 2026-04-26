@@ -1,0 +1,145 @@
+generated_at: '2026-04-26T20:00:51+00:00'
+refs:
+  cf.d1_db:
+    extra:
+      binding_name: LEADS_DB
+    id: 976a183a-0383-48da-a319-8fe98882d14f
+    kind: cf.d1_db
+    name: directory_rcmintel
+  cf.dns_records:
+    extra:
+      content: rcmintel.pages.dev
+      zone_id: 41497d51228932ea6cd4d4eb823ffc6a
+    id: 3204d89f0517ebfa633f98186d902428
+    kind: cf.dns_records
+    name: rcmintel.com
+  cf.email_routing:
+    extra:
+      enabled: true
+    id: 41497d51228932ea6cd4d4eb823ffc6a
+    kind: cf.email_routing
+    name: rcmintel.com
+  cf.pages_project:
+    extra:
+      subdomain: rcmintel.pages.dev
+    id: rcmintel
+    kind: cf.pages_project
+    name: rcmintel
+  cf.r2_bucket:
+    extra:
+      binding_name: PHOTOS
+    id: rcmintel-photos
+    kind: cf.r2_bucket
+    name: rcmintel-photos
+  cf.turnstile:
+    extra:
+      secret: 0x4AAAAAADD2A4UAOnKy05Dz7366GpHuv9c
+    id: 0x4AAAAAADD2A_NnZateWSeo
+    kind: cf.turnstile
+    name: rcmintel
+  content.enrich:
+    extra:
+      exported: 228
+    id: /home/nick/directory-factory/factory/verticals/rcmintel/src/data/listings
+    kind: content.enrich
+    name: rcmintel
+  content.faqs:
+    extra:
+      count: 12
+    id: /home/nick/directory-factory/factory/verticals/rcmintel/src/data/faqs.json
+    kind: content.faqs
+    name: rcmintel
+  content.generate:
+    extra:
+      blog_posts: 9
+      cities: 68
+    id: /home/nick/directory-factory/factory/verticals/rcmintel/src/content
+    kind: content.generate
+    name: rcmintel
+  content.images:
+    extra:
+      articles: '21'
+      cities: '68'
+    id: /home/nick/directory-factory/factory/verticals/rcmintel/images.json
+    kind: content.images
+    name: rcmintel
+  content.interlink:
+    extra:
+      links_added: '89'
+    id: /home/nick/directory-factory/factory/verticals/rcmintel/.interlink-stamp
+    kind: content.interlink
+    name: rcmintel
+  content.lead_magnets:
+    extra:
+      count: 3
+    id: /home/nick/directory-factory/factory/verticals/rcmintel/src/data/guides.json
+    kind: content.lead_magnets
+    name: rcmintel
+  content.scrape:
+    extra:
+      count: 228
+    id: /home/nick/directory-factory/factory/verticals/rcmintel/pipeline.db
+    kind: content.scrape
+    name: rcmintel
+  d1.migrations:
+    extra:
+      applied: 8
+    id: directory_rcmintel
+    kind: d1.migrations
+    name: rcmintel
+  ga4.property:
+    extra:
+      measurement_id: G-KW8GPZLJ4X
+    id: G-KW8GPZLJ4X
+    kind: ga4.property
+    name: rcmintel
+  github.repo:
+    extra: {}
+    id: nickedpalm/rcmintel
+    kind: github.repo
+    name: nickedpalm/rcmintel
+  gsc.verify:
+    extra:
+      api_verified: true
+      content: google-site-verification=ZgHprJ2OuX8736p59bj3GgTANp9wgfd0H2DWRY2hrwM
+    id: ac40d91025495a8436649600c3aadddf
+    kind: gsc.verify
+    name: rcmintel.com
+  listmonk.api_user:
+    extra:
+      password: uOg4Mx2iCSGi1pRvbMw-fbjiHLFlzcZm
+    id: rcmintel-api
+    kind: listmonk.api_user
+    name: rcmintel-api
+  local.colors:
+    extra:
+      primary: '#2a52d5'
+    id: /home/nick/directory-factory/factory/verticals/rcmintel/colors.json
+    kind: local.colors
+    name: rcmintel
+  local.logos:
+    extra:
+      copied: 11
+      total: 11
+    id: /home/nick/directory-factory/factory/verticals/rcmintel/public
+    kind: local.logos
+    name: rcmintel
+  local.scaffold:
+    extra:
+      domain: rcmintel.com
+    id: /home/nick/directory-factory/factory/verticals/rcmintel/vertical.json
+    kind: local.scaffold
+    name: rcmintel
+  local.template_sync:
+    extra:
+      count: '20'
+      synced: src/components,src/pages,src/layouts,src/utils,src/lib,src/scripts,src/types,src/assets/styles,src/assets/fonts,_functions,migrations,src/config.ts,src/env.d.ts,src/types.d.ts,src/navigation.ts,astro.config.ts,tailwind.config.js,tsconfig.json,public/_headers,public/_redirects
+    id: /home/nick/directory-factory/factory/verticals/rcmintel
+    kind: local.template_sync
+    name: rcmintel
+  ses.domain_verify:
+    extra:
+      dkim_count: 3
+    id: rcmintel.com
+    kind: ses.domain_verify
+    name: rcmintel.com

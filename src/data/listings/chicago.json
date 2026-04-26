@@ -1,0 +1,602 @@
+[
+  {
+    "slug": "american-medical-billing-inc-chicago",
+    "name": "American Medical Billing, Inc.",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.8,
+    "review_count": 20,
+    "description": "",
+    "certifications": [],
+    "services": [
+      "A/R management",
+      "Credentialing",
+      "Old AR cleanup",
+      "Staff training"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:04",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "A/R management",
+        "Credentialing",
+        "Old AR cleanup",
+        "Staff training"
+      ],
+      "highlights": [
+        {
+          "text": "Veteran-owned reliable service",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Customized AR management",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Flat-fee model",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": ""
+    }
+  },
+  {
+    "slug": "i-med-claims-chicago",
+    "name": "I-Med Claims",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.7,
+    "review_count": 35,
+    "description": "",
+    "certifications": [],
+    "services": [
+      "Eligibility verification",
+      "Credentialing",
+      "Claims processing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:04",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.93,
+      "keywords": [
+        "Eligibility verification",
+        "Credentialing",
+        "Claims processing"
+      ],
+      "highlights": [
+        {
+          "text": "Affordable 2.95% pricing",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Full-suite RCM",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Supports 50+ specialties",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": ""
+    }
+  },
+  {
+    "slug": "illinois-medical-dental-billing-services-company-chicago",
+    "name": "Illinois Medical & Dental Billing Services Company",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "(000) 000-0000",
+    "website": "https://illinoismdbilling.com",
+    "email": "ABC@gmail.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.8,
+    "review_count": 22,
+    "description": "",
+    "certifications": [],
+    "services": [
+      "Medical billing",
+      "Dental billing",
+      "Coding",
+      "RCM solutions"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:04",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "Medical billing",
+        "Dental billing",
+        "Coding",
+        "RCM solutions"
+      ],
+      "highlights": [
+        {
+          "text": "Boosts reimbursements",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Expert coding RCM",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Reduces denials",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": ""
+    }
+  },
+  {
+    "slug": "medcare-mso-chicago",
+    "name": "MedCare MSO",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "800-640-6409",
+    "website": "https://medcaremso.com",
+    "email": "info@medcaremso.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 5.0,
+    "review_count": 50,
+    "description": "",
+    "certifications": [],
+    "services": [
+      "Front Office Management",
+      "Revenue cycle management",
+      "Certified billing and coding"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:04",
+    "sentiment": {
+      "label": "positive",
+      "score": 1.0,
+      "keywords": [
+        "Front Office Management",
+        "Revenue cycle management",
+        "Certified billing and coding"
+      ],
+      "highlights": [
+        {
+          "text": "5-star ratings on Google",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Trusted by practices for revenue growth",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Excellent certified billers",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": ""
+    }
+  },
+  {
+    "slug": "physicians-revenue-group-inc-prg-chicago",
+    "name": "Physicians Revenue Group, Inc. (PRG)",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "1776963401",
+    "website": "https://prgmd.com",
+    "email": "%20info@prgmd.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.9,
+    "review_count": 45,
+    "description": "",
+    "certifications": [],
+    "services": [
+      "End-to-end billing",
+      "Coding audit",
+      "Revenue cycle management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:04",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "End-to-end billing",
+        "Coding audit",
+        "Revenue cycle management"
+      ],
+      "highlights": [
+        {
+          "text": "Best in Illinois for 20+ years",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Excellent revenue results",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Covers 50 specialties",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": ""
+    }
+  },
+  {
+    "slug": "precision-medical-billing-services-chicago",
+    "name": "Precision Medical Billing Services",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "1776279046",
+    "website": "https://pmbillingservices.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.9,
+    "review_count": 32,
+    "description": "",
+    "certifications": [],
+    "services": [
+      "Medical billing",
+      "Coding",
+      "Revenue cycle management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:04",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "Medical billing",
+        "Coding",
+        "Revenue cycle management"
+      ],
+      "highlights": [
+        {
+          "text": "Quickest claims processing",
+          "sentiment": "positive"
+        },
+        {
+          "text": "#1 in Chicago",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Certified solutions",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": ""
+    }
+  },
+  {
+    "slug": "precision-practice-management-chicago",
+    "name": "Precision Practice Management",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "844-525-8500",
+    "website": "https://www.precisionpractice.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.6,
+    "review_count": 15,
+    "description": "",
+    "certifications": [],
+    "services": [
+      "Revenue cycle management",
+      "Medical coding",
+      "Credentialing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:04",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.9,
+      "keywords": [
+        "Revenue cycle management",
+        "Medical coding",
+        "Credentialing"
+      ],
+      "highlights": [
+        {
+          "text": "Full revenue cycle support",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Serves major IL cities",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Technical support included",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": ""
+    }
+  },
+  {
+    "slug": "premier-medical-billing-services-chicago",
+    "name": "Premier Medical Billing Services",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.9,
+    "review_count": 25,
+    "description": "",
+    "certifications": [],
+    "services": [
+      "Medical billing",
+      "Coding",
+      "Revenue cycle for mid-large practices"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:04",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "Medical billing",
+        "Coding",
+        "Revenue cycle for mid-large practices"
+      ],
+      "highlights": [
+        {
+          "text": "Top revenue results",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Reliable for mid-large practices",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Expert billing support",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": ""
+    }
+  },
+  {
+    "slug": "transcure-chicago",
+    "name": "Transcure",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "1103337663",
+    "website": "https://transcure.net",
+    "email": "info@transcure.net",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.9,
+    "review_count": 40,
+    "description": "",
+    "certifications": [],
+    "services": [
+      "Eligibility verification",
+      "Coding",
+      "Denial management",
+      "AR follow-up"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:04",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "Eligibility verification",
+        "Coding",
+        "Denial management",
+        "AR follow-up"
+      ],
+      "highlights": [
+        {
+          "text": "99.99% clean claim accuracy",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Specialty-specific solutions",
+          "sentiment": "positive"
+        },
+        {
+          "text": "AI-powered billing",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": ""
+    }
+  },
+  {
+    "slug": "zee-medical-billing-chicago",
+    "name": "Zee Medical Billing",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.8,
+    "review_count": 30,
+    "description": "",
+    "certifications": [],
+    "services": [
+      "Patient registration",
+      "Denial management",
+      "Revenue cycle management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:04",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "Patient registration",
+        "Denial management",
+        "Revenue cycle management"
+      ],
+      "highlights": [
+        {
+          "text": "99% clean submissions",
+          "sentiment": "positive"
+        },
+        {
+          "text": "30% revenue increase",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Full HIPAA compliance",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": ""
+    }
+  },
+  {
+    "slug": "ebix-inc-chicago",
+    "name": "ebix, Inc.",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "",
+    "website": "https://ebixinc.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.7,
+    "review_count": 18,
+    "description": "",
+    "certifications": [],
+    "services": [
+      "Medical billing",
+      "Coding",
+      "Revenue cycle management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:04",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.93,
+      "keywords": [
+        "Medical billing",
+        "Coding",
+        "Revenue cycle management"
+      ],
+      "highlights": [
+        {
+          "text": "Stops revenue leaks",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Innovative billing",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Enhances RCM",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": ""
+    }
+  }
+]

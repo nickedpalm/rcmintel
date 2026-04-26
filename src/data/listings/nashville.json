@@ -1,0 +1,412 @@
+[
+  {
+    "slug": "247-medical-billing-services-nashville",
+    "name": "24/7 Medical Billing Services",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "",
+    "lat": 36.1622767,
+    "lng": -86.7742984,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Nashville-based full-service billing firm offering RCM, coding, claims submission, denial management, and credentialing across 12 medical fields with 24/7 support.",
+    "certifications": [],
+    "services": [
+      "RCM",
+      "coding",
+      "denial management",
+      "credentialing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:49",
+    "sentiment": null
+  },
+  {
+    "slug": "cbs-medical-billing-and-consulting-nashville",
+    "name": "CBS Medical Billing and Consulting",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "",
+    "lat": 36.1627,
+    "lng": -86.7816,
+    "phone": "1603601293",
+    "website": "https://www.cbsmedicalbilling.com",
+    "email": "info@cbsmedicalbilling.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Tailored medical billing and revenue cycle management solutions for healthcare providers across Tennessee, including insurance verification, claims management, and AR tracking.",
+    "certifications": [],
+    "services": [
+      "billing",
+      "RCM",
+      "credentialing",
+      "claims management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:49",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.92,
+      "keywords": [
+        "attentive",
+        "proactive",
+        "knowledgeable",
+        "professional",
+        "efficient",
+        "clarity"
+      ],
+      "highlights": [
+        {
+          "text": "Every step of the process is easier because the CBS team is attentive and proactive.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "CBS is extremely knowledgeable and made our billing process so much easier.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They took on a year-long project and handled it with professionalism and clarity.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "CBS Medical Billing and Consulting receives consistently strong praise for their knowledgeable, proactive team that simplifies billing processes and handles complex projects with professionalism."
+    }
+  },
+  {
+    "slug": "medheave-nashville",
+    "name": "Medheave",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "",
+    "lat": 36.1627,
+    "lng": -86.7816,
+    "phone": "8571428571",
+    "website": "https://medheave.com",
+    "email": "info@medheave.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Top Tennessee medical billing company offering end-to-end billing for faster reimbursements and revenue cycle optimization across the state.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "coding",
+      "RCM"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:49",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.8,
+      "keywords": [
+        "medicine billing",
+        "professional",
+        "seamless",
+        "quality",
+        "invisible",
+        "process"
+      ],
+      "highlights": [
+        {
+          "text": "The art of medicine billing is all about being so good that billers are invisible in the whole process",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Reviews praise Medheave's billing philosophy, where excellent service means clients experience seamless, frictionless processes without billing complications."
+    }
+  },
+  {
+    "slug": "newtech-it-rcm-solutions-nashville",
+    "name": "NewTech IT & RCM Solutions",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "",
+    "lat": 36.1627,
+    "lng": -86.7816,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "End-to-end revenue cycle management with real-time analytics, personalized account managers, and compliance-focused billing for hospitals, physicians, and DME providers.",
+    "certifications": [],
+    "services": [
+      "RCM",
+      "analytics",
+      "compliance billing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:49",
+    "sentiment": null
+  },
+  {
+    "slug": "precision-practice-management-nashville",
+    "name": "Precision Practice Management",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "",
+    "lat": 36.1627,
+    "lng": -86.7816,
+    "phone": "844-525-8500",
+    "website": "https://www.precisionpractice.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides revenue cycle solutions, medical coding, charge coding, credentialing, and technical support to medical practices in Tennessee including Nashville, Memphis, and Knoxville.",
+    "certifications": [],
+    "services": [
+      "revenue cycle management",
+      "coding",
+      "credentialing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:49",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [
+        "collections",
+        "accounts-receivable",
+        "efficient",
+        "professional",
+        "transition-management"
+      ],
+      "highlights": [
+        {
+          "text": "able to collect [AR claims that] would normally be written-off",
+          "sentiment": "positive"
+        },
+        {
+          "text": "generated normal collections in a short time",
+          "sentiment": "positive"
+        },
+        {
+          "text": "stepped up and took control of the transition",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Precision Practice Management is highly regarded for successfully recovering difficult accounts receivable and efficiently managing billing transitions with demonstrated competence and speed."
+    }
+  },
+  {
+    "slug": "quest-national-services-nashville",
+    "name": "Quest National Services",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "",
+    "lat": 36.1627,
+    "lng": -86.7816,
+    "phone": "2097177896",
+    "website": "https://questns.com",
+    "email": "info@questns.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Nashville medical billing services with experienced team trained in all software systems for healthcare providers.",
+    "certifications": [],
+    "services": [
+      "medical billing",
+      "claims processing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:49",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "transparent",
+        "responsive",
+        "knowledgeable",
+        "communication",
+        "efficient",
+        "financial improvement"
+      ],
+      "highlights": [
+        {
+          "text": "I would recommend Quest without reservation.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "saving our practice tens of thousands of dollars",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I was impressed almost immediately by their transparency and consistent communication",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The team is knowledgeable, efficient and very timely",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Quest National Services has earned overwhelmingly positive reviews, with clients consistently praising transparency, responsive leadership, and substantial financial improvements in billing and accounts receivable."
+    }
+  },
+  {
+    "slug": "svast-healthcare-technologies-nashville",
+    "name": "Svast Healthcare Technologies",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "",
+    "lat": 36.1627,
+    "lng": -86.7816,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full-service RCM and medical billing supporting 12 specialties, with over $1 billion billed for 100+ clients.",
+    "certifications": [],
+    "services": [
+      "RCM",
+      "coding",
+      "credentialing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:49",
+    "sentiment": null
+  },
+  {
+    "slug": "transcure-nashville",
+    "name": "Transcure",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "",
+    "lat": 36.1627,
+    "lng": -86.7816,
+    "phone": "1103337663",
+    "website": "https://transcure.net",
+    "email": "info@transcure.net",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "AI-driven revenue cycle management with dedicated billing agents for faster and accurate reimbursements, streamlining claims.",
+    "certifications": [],
+    "services": [
+      "RCM",
+      "coding",
+      "claims processing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:49",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.94,
+      "keywords": [
+        "knowledgeable",
+        "seamless",
+        "expertise",
+        "responsive",
+        "efficient",
+        "proactive"
+      ],
+      "highlights": [
+        {
+          "text": "Truly, the easiest transition I could ever imagine. And their services are fantastic!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Their knowledgeable team has ensured compliance with regulations, minimized payment delays, and improved our cash flow",
+          "sentiment": "positive"
+        },
+        {
+          "text": "An invaluable partner in managing our billing needs with seamless integration that has exceeded expectations",
+          "sentiment": "positive"
+        },
+        {
+          "text": "While there's still a little room for improvement in reporting details",
+          "sentiment": "negative"
+        }
+      ],
+      "summary": "Transcure Medical Billing Services maintains an exceptional reputation with consistently strong reviews praising their knowledgeable team, seamless service transitions, and tangible improvements to client operations, with only one minor note about reporting detail refinement."
+    }
+  },
+  {
+    "slug": "wright-medical-billing-llc-nashville",
+    "name": "Wright Medical Billing, LLC",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "",
+    "lat": 36.1627,
+    "lng": -86.7816,
+    "phone": "1675321208",
+    "website": "https://www.wrightmedicalbilling.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Tennessee-based medical billing company providing comprehensive billing and receivables management services including coding, claim submission, patient billing, denial follow-ups, and monthly A/R management for primary care and specialty practices.",
+    "certifications": [],
+    "services": [
+      "coding",
+      "claim submission",
+      "denial management",
+      "financial reporting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:49",
+    "sentiment": null
+  }
+]

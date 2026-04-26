@@ -1,0 +1,346 @@
+[
+  {
+    "slug": "acp-billing-services-jacksonville",
+    "name": "ACP Billing Services",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "Not available",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "phone": "Not available",
+    "website": "Not available",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Orlando-based medical billing company with over 15 years of experience handling Medicare and commercial insurance claims across multiple specialties. Serves hospitals, physician offices, clinics, and outpatient facilities throughout Florida with 99% clean claim submission rate and less than 2% denial rate.",
+    "certifications": [],
+    "services": [
+      "Medical billing",
+      "Claims management",
+      "Revenue cycle management",
+      "Medicare claims",
+      "Commercial insurance claims"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:46",
+    "sentiment": null
+  },
+  {
+    "slug": "annexmed-jacksonville",
+    "name": "AnnexMed",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "Not available",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "phone": "Not available",
+    "website": "Not available",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Leading medical billing and revenue cycle management provider supporting Florida practices across more than 40 specialties. Offers full-service RCM including coding, billing, AR follow-up, and denial prevention with over 20 years of experience.",
+    "certifications": [],
+    "services": [
+      "Revenue cycle management",
+      "Medical coding",
+      "Billing",
+      "AR follow-up",
+      "Denial prevention"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:46",
+    "sentiment": null
+  },
+  {
+    "slug": "cbs-medical-billing-jacksonville",
+    "name": "CBS Medical Billing",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "Not available",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "phone": "Not available",
+    "website": "https://www.cbsmedicalbilling.com",
+    "email": "info@cbsmedicalbilling.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides full-service revenue cycle management to Florida healthcare practices with extensive experience with Medicare, Medicare Advantage, and O&P claims common in Florida's senior care landscape.",
+    "certifications": [],
+    "services": [
+      "Revenue cycle management",
+      "Medical billing",
+      "Medicare claims",
+      "Medicare Advantage claims"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:46",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.93,
+      "keywords": [
+        "attentive",
+        "proactive",
+        "knowledgeable",
+        "professional",
+        "efficient",
+        "clarity"
+      ],
+      "highlights": [
+        {
+          "text": "Every step of the process is easier because the CBS team is attentive and proactive.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "CBS is extremely knowledgeable and made our billing process so much easier.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They took on a year-long project and handled it with professionalism and clarity.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "CBS Medical Billing receives consistently positive reviews highlighting their attentiveness, expertise, and ability to streamline billing processes with professionalism."
+    }
+  },
+  {
+    "slug": "mbw-rcm-jacksonville",
+    "name": "MBW RCM",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "Not available",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "phone": "Not available",
+    "website": "https://www.mbwrcm.com",
+    "email": "info@mbwrcm.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Florida's most cost-effective and results-driven medical billing service provider. Combines AI-driven automation, data analytics, and human expertise to maximize revenue for healthcare practices.",
+    "certifications": [],
+    "services": [
+      "Medical billing",
+      "AI-driven automation",
+      "Data analytics",
+      "Revenue cycle management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:46",
+    "sentiment": null
+  },
+  {
+    "slug": "mgsi-llc-jacksonville",
+    "name": "MGSI, LLC",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "Not available",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "phone": "Not available",
+    "website": "Not available",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "One of the most established medical billing outsourcing companies in Florida with over 30 years in the industry. Offers competitive pricing through automation and scale.",
+    "certifications": [],
+    "services": [
+      "Medical billing",
+      "Automation",
+      "Revenue cycle management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:46",
+    "sentiment": null
+  },
+  {
+    "slug": "practiceforces-jacksonville",
+    "name": "PracticeForces",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "Not available",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "phone": "Not available",
+    "website": "https://practiceforces.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Medical billing management services provider serving medical practices and hospitals in the US since 2003. Offers billing services starting at 2.99%.",
+    "certifications": [],
+    "services": [
+      "Medical billing",
+      "Medical coding",
+      "Billing management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:46",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional",
+        "attentive",
+        "trustworthy",
+        "knowledgeable",
+        "organized",
+        "proactive"
+      ],
+      "highlights": [
+        {
+          "text": "Highly recommend PracticeForces to anyone looking for a medical billing service",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They have always been very attentive to our needs. Parul is a sweetheart",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Extremely knowledgeable and professional. They are trustworthy, diligent and proactive",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Do an excellent job with collecting money from Insurance companies. Highly recommend",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Overwhelmingly positive reputation with consistent praise from long-term clients for professionalism, attentiveness, reliability, and effective insurance collection."
+    }
+  },
+  {
+    "slug": "puremd-jacksonville",
+    "name": "PureMD",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "Not available",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "phone": "Not available",
+    "website": "Not available",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Prominent medical billing company in Florida known for reliable and consistent results. Provides efficient billing services to help healthcare organizations and practices improve cash flow, reduce errors, and stay compliant with real-time dashboards and clear financial reports.",
+    "certifications": [],
+    "services": [
+      "Medical billing",
+      "Charge entry",
+      "Payment posting",
+      "Denial management",
+      "A/R follow-up"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:46",
+    "sentiment": null
+  },
+  {
+    "slug": "swift-medical-billing-services-jacksonville",
+    "name": "Swift Medical Billing Services",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "Not available",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "phone": "Not available",
+    "website": "https://swiftmds.com",
+    "email": "hello@swiftmds.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Medical billing company specializing in personalized service suitable for owner-run clinics and small practices. Provides end-to-end medical billing and claims management with coding support and audits.",
+    "certifications": [],
+    "services": [
+      "Medical billing",
+      "Claims management",
+      "Coding support",
+      "Audits",
+      "Denial reduction"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:46",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "professional",
+        "efficient",
+        "trustworthy",
+        "time-saving",
+        "game-changer",
+        "seamless"
+      ],
+      "highlights": [
+        {
+          "text": "It has been one of the best choices we've made",
+          "sentiment": "positive"
+        },
+        {
+          "text": "This service has been a complete game changer for our practice",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Swift made our credentialing process seamless and stress-free",
+          "sentiment": "positive"
+        },
+        {
+          "text": "You won't be disappointed",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Swift Medical Billing Services receives consistently exceptional reviews, with clients praising professionalism, efficiency, cost savings, and transformative impact on practice operations."
+    }
+  }
+]

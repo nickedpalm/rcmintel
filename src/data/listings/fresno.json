@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "synergy-billing-fresno",
+    "name": "Synergy Billing",
+    "city": "Fresno",
+    "state": "CA",
+    "address": "",
+    "lat": 36.7378,
+    "lng": -119.7871,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Specializes in FQHCs and behavioral health organizations with compliance-focused support for unique funding models.",
+    "certifications": [],
+    "services": [
+      "medical billing for FQHCs",
+      "behavioral health billing"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:02",
+    "sentiment": null
+  }
+]

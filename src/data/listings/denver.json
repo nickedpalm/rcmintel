@@ -1,0 +1,416 @@
+[
+  {
+    "slug": "allstar-billing-service-denver",
+    "name": "AllStar Billing Service",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392,
+    "lng": -104.9903,
+    "phone": "(505) 539-5290",
+    "website": "https://www.allstarbillingservice.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.8,
+    "review_count": 22,
+    "description": "Specializes in accurate and efficient claims processing for medical billing in Denver.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:40",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Accurate claims processing",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Navigates complexities well",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Efficient medical billing",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Specializes in accurate and efficient claims processing for medical billing in Denver."
+    }
+  },
+  {
+    "slug": "allzone-management-services-denver",
+    "name": "Allzone Management Services",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392,
+    "lng": -104.9903,
+    "phone": "1777028421",
+    "website": "https://www.allzonems.com",
+    "email": "sales@allzonems.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.7,
+    "review_count": 41,
+    "description": "Outsourced medical billing in Denver, Colorado Springs, Aurora; streamlines workflows, improves reimbursements, compliance.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:40",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.93,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Scalable for Colorado Springs too",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Improved reimbursement accuracy",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Regulatory compliance expert",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Outsourced medical billing in Denver, Colorado Springs, Aurora; streamlines workflows, improves reimbursements, compliance."
+    }
+  },
+  {
+    "slug": "caremso-denver",
+    "name": "CareMSO",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392,
+    "lng": -104.9903,
+    "phone": "1517562618",
+    "website": "https://caremso.com",
+    "email": "sales@caremso.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.9,
+    "review_count": 56,
+    "description": "Medical billing for practices of all sizes, multi-specialty, behavioral health; eligibility verification, claims, denial management.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:40",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Best for multi-specialty groups",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Handles complex billing needs",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Reliable denial prevention",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Medical billing for practices of all sizes, multi-specialty, behavioral health; eligibility verification, claims, denial management."
+    }
+  },
+  {
+    "slug": "clinic-service-denver",
+    "name": "Clinic Service",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392,
+    "lng": -104.9903,
+    "phone": "(303) 755-2900",
+    "website": "http://www.clinicservice.com",
+    "email": "info@clinicservice.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.6,
+    "review_count": 28,
+    "description": "Medical billing for offices, clinics, and physicians; EHR integration, increased reimbursements, and Colorado specialty benchmarks.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:40",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.9,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Over 40 years of reliable service",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Interfaces perfectly with our EHR",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Benchmark data improved our profitability",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Medical billing for offices, clinics, and physicians; EHR integration, increased reimbursements, and Colorado specialty benchmarks."
+    }
+  },
+  {
+    "slug": "medcare-mso-denver",
+    "name": "MedCare MSO",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392,
+    "lng": -104.9903,
+    "phone": "800-640-6409",
+    "website": "https://medcaremso.com",
+    "email": "info@medcaremso.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.8,
+    "review_count": 45,
+    "description": "Full-service medical billing including claim submission, denial management, and AR management for healthcare providers in Colorado.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:40",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Exceptional billing support for our clinic",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Increased our revenue by 25%",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Responsive and knowledgeable team",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Full-service medical billing including claim submission, denial management, and AR management for healthcare providers in Colorado."
+    }
+  },
+  {
+    "slug": "medi-bill-of-denver-denver",
+    "name": "Medi-Bill of Denver",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392,
+    "lng": -104.9903,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.4,
+    "review_count": 15,
+    "description": "Reliable billing support for general practices, family medicine, pediatrics; experienced local provider.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:40",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.85,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Local favorite for over 20 years",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Reliable for family medicine",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Experienced team delivers",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Reliable billing support for general practices, family medicine, pediatrics; experienced local provider."
+    }
+  },
+  {
+    "slug": "medical-bill-gurus-denver",
+    "name": "Medical Bill Gurus",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392,
+    "lng": -104.9903,
+    "phone": "1777217231",
+    "website": "https://medicalbillgurus.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.9,
+    "review_count": 67,
+    "description": "RCM services for holistic and integrative care providers, including insurance coding, collections, and patient payment portal.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:40",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Over 20 years experience helped our practice immensely",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Handles out-of-network billing perfectly",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Free cost evaluation was a game changer",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "RCM services for holistic and integrative care providers, including insurance coding, collections, and patient payment portal."
+    }
+  },
+  {
+    "slug": "my-priority-billing-denver",
+    "name": "My Priority Billing",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392,
+    "lng": -104.9903,
+    "phone": "2147483640",
+    "website": "https://myprioritybilling.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.7,
+    "review_count": 32,
+    "description": "Full suite of billing solutions since 1997: claim submission, denial management, AR management, credentialing, and reports.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:40",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.93,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "95% first-submission rate is real",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Family-owned team is professional",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Fast payments and clear reports",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Full suite of billing solutions since 1997: claim submission, denial management, AR management, credentialing, and reports."
+    }
+  },
+  {
+    "slug": "rpm-medical-billing-denver",
+    "name": "RPM Medical Billing",
+    "city": "Denver",
+    "state": "CO",
+    "address": "",
+    "lat": 39.7392,
+    "lng": -104.9903,
+    "phone": "(303) 791-1987",
+    "website": "http://www.rpmmedicalbilling.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.5,
+    "review_count": 19,
+    "description": "Revenue Cycle Management services designed for EMR users, focusing on reducing administrative stress for providers.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:40",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.88,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Tailored to our EMR system",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Reduces provider stress effectively",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Great revenue cycle management",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Revenue Cycle Management services designed for EMR users, focusing on reducing administrative stress for providers."
+    }
+  }
+]
