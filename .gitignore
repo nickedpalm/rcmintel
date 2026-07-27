@@ -16,3 +16,6 @@ research/
 
 # macOS
 .DS_Store
+
+# bootstrap resource-ID cache (rebuildable via discover(); may contain secrets)
+bootstrap-refs.yaml
